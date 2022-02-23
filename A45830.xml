@@ -1,0 +1,1119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Infants-baptism disproved and believers baptism proved, or, An answer to several arguments propounded in a paper by Mr. Alexander Kellie, minister at Giles Criple Gate London, and sent to Mr. Jeremiah Ives of the said parish and is now published for the general information of all, but particularly for the satisfaction of many of the inhabitants of the said parish who have desired it, wherein the arguments for infant-baptism are examined and disproved by the said Jeremia Ives.</title>
+            <author>Ives, Jeremiah, fl. 1653-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 126 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45830</idno>
+            <idno type="STC">Wing I1100</idno>
+            <idno type="STC">ESTC R31669</idno>
+            <idno type="EEBO-CITATION">12243864</idno>
+            <idno type="OCLC">ocm 12243864</idno>
+            <idno type="VID">56842</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56842)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1506:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Infants-baptism disproved and believers baptism proved, or, An answer to several arguments propounded in a paper by Mr. Alexander Kellie, minister at Giles Criple Gate London, and sent to Mr. Jeremiah Ives of the said parish and is now published for the general information of all, but particularly for the satisfaction of many of the inhabitants of the said parish who have desired it, wherein the arguments for infant-baptism are examined and disproved by the said Jeremia Ives.</title>
+                  <author>Ives, Jeremiah, fl. 1653-1674.</author>
+               </titleStmt>
+               <extent>[6], 71 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London for Richard Moone and are to be sold at the Seven Stars ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained, with print showthrough and loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infant baptism --  Early works to 1800.</term>
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56842:1" rendition="simple:additions"/>
+            <pb facs="tcp:56842:1" rendition="simple:additions"/>
+            <p>INFANTS-BAPTISM Diſproved: AND Believers Baptiſm proved. OR, An ANSWER To ſeveral Arguments propounded in a paper by Mr. <hi>Alexander Kellie,</hi> Mi<g ref="char:EOLhyphen"/>niſter at <hi>Giles Criple-Gate London,</hi> and ſent to Mr. <hi>Jeremiah Ives</hi> of the ſaid PARISH. And is now publiſhed for the general information of all, but particularly for the ſatifaction of many of the Inhabitants of the ſaid PARISH, who have deſired it. Wherein The ARGUMENTS for Infant-Baptiſm are examined and diſproved.</p>
+            <p>By the ſaid <hi>Jeremiah Ives.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 18.17.</hi>
+               </bibl>
+               <p>He that is firſt in his own cauſe ſeemeth juſt, but his neighbour comes and ſearcheth him.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Job 6.25.</hi>
+               </bibl>
+               <p>How forcible are right words? but what do your arguings reprove?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 23.23.</hi>
+               </bibl>
+               <p>Buy the truth, but ſell it not.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Luke 7.30.</hi>
+               </bibl>
+               <p>But the Phariſees and Lawyers rejected the counſel of God a<g ref="char:EOLhyphen"/>gainſt themſelves, not being baptized of him.</p>
+            </q>
+            <p>Printed at <hi>London</hi> for <hi>Richard Moone,</hi> and are to be ſold at the ſeven Stars in <hi>Paul</hi>'s Church-yard neer the great North door, 1655.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:56842:2"/>
+            <pb facs="tcp:56842:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F thoſe men of <hi>Berea,</hi> Act. <hi>17.11.</hi> were counted more noble then they of <hi>Theſſalonica,</hi> becauſe they would take nothing upon truſt that the Apo<g ref="char:EOLhyphen"/>ſtles ſaid, but ſearched the Scripture dayly to ſee if what <hi>They</hi> ſaid were ſo; How ignoble ſhould we be in this Age, (wherein men are much more divided in matters of Religion, then they were in the A<g ref="char:EOLhyphen"/>postles times, and wherein our Teachers themſelves are contradictious one to another, in many of the great con<g ref="char:EOLhyphen"/>cernments of Religion) if we ſhould receive any thing from them without diligent ſearch into the Word of God, to ſee if it be true or no? <hi>ſith Solomon</hi> makes this a diſtin<g ref="char:EOLhyphen"/>guiſhing Character between a wiſe Man and a Fool, <hi>Prov. 14.15. The ſimple believeth every word, but the wiſe man looks well to his goings.</hi> Neither let a man think that his looking back to the ancient Fathers, and his
+<pb facs="tcp:56842:3"/>ſearching of them, and reading them, will much help in the midſt of theſe Religious diſorders, becauſe they were in many things as much contradictory to the Truth and one another, as any in theſe times, as for inſtance: <hi>Hierome</hi> and <hi>Chriſoſtome</hi> deny Original-ſin in the ſence it is now maintained. <hi>Auguſtine</hi> taught, <hi>That the Lord's Sup<g ref="char:EOLhyphen"/>per ſhould be given to Infants,</hi> in his fifth Book of <hi>Hpognoſticks. Juſtin Martyr</hi> againſt <hi>Triphon,</hi> ſaith, <hi>God at firſt gave the Sun to be adored. Origen</hi> held the Salvation of all both wicked men and devils. The Biſhops of the Eaſt and Weſt Churches oppoſed one an<g ref="char:EOLhyphen"/>other in the Doctrine of the Deity of Chriſt, in the time of <hi>Conſtantius</hi> Son to <hi>Conſtatinus Magius.</hi> And long after, <hi>Socrates, Lib. 1. Chap. 29.</hi> and <hi>Chri<g ref="char:EOLhyphen"/>ſoſtome,</hi> ſaid, <hi>That Saint</hi> Paul <hi>ſpake againſt Truth and Reaſon in allowing ſecond Marriages.</hi> See <hi>Moulin's Defence, p. 137, 138.</hi> By all this you may ſee that we have great cauſe to ſearch the Scripture, and not to follow the Fathers, or any, but wherein they followed Chriſt. And we may likewiſe underſtand, that that which the World now calls, The Chriſtian Religion, is like the Weather-beaten Bark at <hi>Athens,</hi> that had been ſo often mended and riged, that it was hard to ſay, whether it re<g ref="char:EOLhyphen"/>tained any of its old materials, onely it retained its old Name. The like may be ſaid of Religion, as it is common<g ref="char:EOLhyphen"/>ly profeſs'd in the world by the generality of men, that it hath been ſo often mended with the new ſtate of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ens own inventions that if we look into the Word of God, and com<g ref="char:EOLhyphen"/>pare the ſtate of the Chriſtian Religion in the Apoſtles times, to the common Religion that is profeſs'd now in the Nation, and we ſhall finde nothing but the name of it; the name of Believing, the name of Churches, the name of
+<pb facs="tcp:56842:3"/>Baptiſm, the name of Miniſters of the Goſpel, the name of the Lord's Supper, the name of Chriſtians, <hi>&amp;c.</hi> How mightily then doth it concern us all, to ſearch the Word of God which is a Light to us in this dark Day, and is able to lead us through all the Miſts of the Myſtery of Iniquity, and to ſet our fee<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in a fair path, where we may walk with<g ref="char:EOLhyphen"/>out ſtumbling?</p>
+            <p>But if you ſhall ſay, <hi>Have not our learned Men un<g ref="char:EOLhyphen"/>dertaken to reform Religion by the Word of God, and cannot they as ſoon hit the right way through theſe many wayes, as we?</hi>
+            </p>
+            <p>I anſwer, Tis one thing, what they can do; and another thing, what they will do: conſidering, how much the moſt part of them are taken with the love of this preſent World, and the pride of life, which ſtops them from laying aſide any error that they have preached &amp; practiſed, leſt it ſhould re<g ref="char:EOLhyphen"/>flect either upon their profit on the one hand, or their credit and learning on the other, as ſome of the Biſhops ſaid in the <hi>Council of Trent, That the School men were like Aſtronomers, which did feigh</hi> Eccentricks, <hi>and</hi> Epi<g ref="char:EOLhyphen"/>cycles <hi>to ſave the</hi> Phenomina, <hi>though they knew there were no ſuch thing.</hi> In like manner, as Sir <hi>Francis Ba<g ref="char:EOLhyphen"/>con</hi> well obſerves in his <hi>Eſſaies</hi> of Superſtition, <hi>p. 97, 98. The School-men</hi> (ſaith he) <hi>have framed a number of ſubtil and intricate</hi> Axioms <hi>and</hi> Theorems <hi>to ſave the practiſe of the Church.</hi> I ſhall therefore intreat the Reader, to ſee if the Profit of this World, and the Credit of the Learned, doth not engage them to do ſo in the pre<g ref="char:EOLhyphen"/>ſent controverſie of Infants. Baptiſm, and whether it doth not ſavour more of the ſpirit of the forenamed Biſhops in the <hi>Council of Trent,</hi> then of the ſelf-denying ſpirit that was Chriſt and his Apoſtles. For this end, that thou maiſt
+<pb facs="tcp:56842:4"/>try all things, and hold faſt the beſt, I have put forth that enſuing Controverſie, which at firſt was in private at Mr. <hi>Kellie</hi>'s own Houſe, and afterward, according to a promiſe then made, he did ſend me in a Paper, (not onely the Ar<g ref="char:EOLhyphen"/>guments that he laid down then, but alſo ſome others that he had not then time to propoſe) all which are particularly examined, and the Scriptures relating to them, ſeriouſly weighed and conſidered: and therefore, if by what is herein written, there be any diſcovery of the Truth on either ſide, receive it and embrace it with readineſs of minde; and with the like readineſs let thy heart be lifed to give God the Glory: which is all that is deſired from him that is ready to ſerve thee in the Goſpel of Chriſt,</p>
+            <closer>
+               <signed>Jer. Ives.</signed>
+               <dateline>From my Houſe in Red-Croſs. Street, at the corner of the New. Street, <date>this 16 of Auguſt, 1655.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:56842:4"/>
+            <head>Infants-Baptiſm <hi>Diſproved.</hi>
+            </head>
+            <head type="sub">In ANSWER to M<hi rend="sup">r</hi> ALEXANDER KELLIE His ſeverall <hi>Arguments</hi> levied in Defence of it. <hi>Together with the proof of the lawfullneſſe OF</hi> Believers-Baptiſm.</head>
+            <opener>
+               <salute>SIR;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> HAVE received a Paper from you, wherein you uſe your beſt indeavour to prove that Infants ought to be Baptized: Which Propoſition (you ſay.) you <hi>began to prove at a Meeting at your houſe,</hi> July 10. 1655. <hi>in the forenoone.</hi>
+            </p>
+            <pb n="2" facs="tcp:56842:5"/>
+            <p>Whether you did not at that time, doe like the Builder that Chriſt ſpeaks of, <hi>Luke</hi> 14.28, 29, 30. <hi>viz.</hi> begin to doe that that you were never able to finiſh, I ſhall not now determine, but leave it to the Reader to judge, when he ſhall ſurvey your Arguments, with the Anſwers to them.</p>
+            <p>Your firſt ſtone that you lay in this building, or Argument that you bring to prove Infants ought to be Baptized, is,</p>
+            <sp>
+               <speaker>Mr. <hi>Kellie's</hi> firſt Argument.</speaker>
+               <p>
+                  <hi>IF all Nations are commanded to be baptized, then Infants are commanded to be baptized.</hi>
+               </p>
+               <p>
+                  <hi>But all Nations are commanded to be baptized.</hi>
+               </p>
+               <p>Ergo, <hi>Infants are commanded to be baptized.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's</hi> Anſwer.</speaker>
+               <p>I Doe firſt deny the major Propoſition, becauſe that in many places of Scripture, the word <hi>all Nations</hi> is uſed, where Infants are not included; as <hi>Pſal.</hi> 72.17. <hi>All Nations ſhall call him bleſſed.</hi> Deut. 29.24. <hi>All Nations ſhall ſay, wherefore hath the Lord done thus unto this Land?</hi> Mark 11.17. <hi>Is it not written</hi> (ſaith Chriſt) <hi>that my houſe ſhall be called of all Nations, the houſe of prayer?</hi> Pſal. 118.10. <hi>All Nations compaſſed me about, but in the name of the Lord will I deſtroy them.</hi> And ſo <hi>Mat.</hi> 3.12. <hi>All Nations ſhall call you bleſſed.</hi> And the very place upon which you frame your Argument, is enough, if there were no more, <hi>Mat.</hi> 28.19. where Chriſt bids his Diſciples to <hi>Goe and teach
+<pb n="3" facs="tcp:56842:5"/>all Nations,</hi> &amp;c. I would aſk any man that knowes what an Argument is, whether by your Rule of reaſoning <hi>(viz. All Nations are commanded to be baptized, therefore Infants)</hi> I may not as well ſay, The Diſciples were commanded to teach all Na<g ref="char:EOLhyphen"/>tions, therefore they were commanded to teach Infants of eight dayes old?</p>
+               <p>And again, the Diſciples were commanded to teach them (to wit, the Nations, according to our Tranſlation) <hi>all things that Chriſt command<g ref="char:EOLhyphen"/>ed his Diſciples to doe.</hi> Now the Diſciples were commanded to break bread, and drink wine, in remembrance of the body and blood of the Lord, <hi>Mat.</hi> 26.27. And they were commanded to waſh one anothers feet, <hi>John</hi> 13.14. and many other things. Now may I not as well ſay, That Infants were commanded theſe things, as well as bap<g ref="char:EOLhyphen"/>tiſm, ſince, as the 19 Verſe ſaith, <hi>Baptize them,</hi> the 20 Verſe ſaith, <hi>Teaching them to obſerve all things that I.</hi> (<hi>viz.</hi> Chriſt) <hi>have commanded you.</hi>
+               </p>
+               <p>And again, May I not as well ſay, from the fore cited Scriptures, becauſe the <hi>Pſalms</hi> ſaith, all Nations ſhall call Chriſt bleſſed, that Infants in the Cradle, at eight dayes old, ſhall call him bleſ<g ref="char:EOLhyphen"/>ſed? And becauſe all Nations ſhall ſay, wherefore hath God done this to <hi>Iſrael?</hi> therefore Infants of eight dayes old ſhall ſay ſo? And becauſe that Chriſt ſaith that his fathers houſe ſhall be called of all Nations a houſe of prayer, that therefore Infants of eight dayes old are commanded to call it ſo? And becauſe <hi>David</hi> ſaith, all Nations compaſſed him about, therefore Infants of eight dayes old compaſſed him about? And becauſe
+<pb n="4" facs="tcp:56842:6"/>it's propheſied that all Nations ſhall call <hi>Iſrael</hi> bleſſed, therefore Infants of eight dayes old ſhall call them bleſſed? I ſay, May I not as well rea<g ref="char:EOLhyphen"/>ſon thus, as you may reaſon, <hi>If all Nations may be baptized, Infants may?</hi>
+               </p>
+               <p n="2">2 I yet Anſwer further, as before at our meet<g ref="char:EOLhyphen"/>ing, That this Argument pleads as much for the baptizing of all <hi>Turks</hi> and <hi>Infidells,</hi> becauſe, as <hi>Turks</hi> and <hi>Infidells,</hi> they are a part of all Nations, though they never believe in Chriſt; and by this rule, the Eunuch, <hi>Acts</hi> 8. might have deſired baptiſm, although he had never believ'd in Chriſt, becauſe he was of ſome one Nation, or other; which is contrary, I preſume, to your own opi<g ref="char:EOLhyphen"/>nion, and to the opinion of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who will not baptize a <hi>Turk</hi> or an <hi>Indian,</hi> un<g ref="char:EOLhyphen"/>leſſe he convert and profeſſe Chriſt. But may not the <hi>Turk</hi> or <hi>Indian,</hi> if he ſhould be denied baptiſm, take up your Argument, and ſay, If all Nations may be baptized, then we may be baptized: But all Nations may be baptized; Therefore we may. See therefore how this Ar<g ref="char:EOLhyphen"/>gument doth interfere with your owne pra<g ref="char:EOLhyphen"/>ctice.</p>
+               <p n="3">3 Again, You ſeem to plead for the baptiſm of believers Children onely, but your Argument pleads for unbelievers Children, as much or more then believers; for if that believers Children muſt be baptized becauſe they are a part of Na<g ref="char:EOLhyphen"/>tions, who ſees not but by the ſame rule unbe<g ref="char:EOLhyphen"/>lievers Children may be baptized, becauſe they are a greater part of the Nations, then the Chil<g ref="char:EOLhyphen"/>dren of believers.</p>
+               <pb n="5" facs="tcp:56842:6"/>
+               <p>I Anſwer to your minor Propoſition, as before at your houſe, That it's a Command for belie<g ref="char:EOLhyphen"/>vers and Diſciples of Chriſt, that they ſhould be baptized, and not for all the Nations, as appears by the Originall word, which is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>make Diſciples,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>baptizing THEM,</hi> and not the Nations, which you could not deny; which made way for your ſecond Argument, which was to prove that Infants were Diſciples.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie's</hi> ſecond Argument.</speaker>
+               <p>
+                  <hi>ALL that are taught of God, are Diſciples.</hi>
+               </p>
+               <p>
+                  <hi>But the Infants of Gods people are taught of God.</hi> Ergo.</p>
+               <p>
+                  <hi>They are Diſciples.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's</hi> Anſwer.</speaker>
+               <p>I Anſwer, firſt, by diſtinguiſhing of the Tearm <hi>Taught,</hi> in the major Propoſition. If by <hi>Taught</hi> you mean as the Prophet <hi>Jeremiah</hi> doth, <hi>Chap.</hi> 32.33. where it's ſaid, <hi>God taught them, but they re<g ref="char:EOLhyphen"/>fuſed to receive Inſtruction;</hi> then I deny the major, for thoſe that refuſed to receive inſtruction, were not Diſciples, though they were taught.</p>
+               <p>But ſecondly, If by <hi>Taught,</hi> you mean taught ſo as to receive inſtruction, and learn; then I deny the minor, for that Infants at eight dayes old are not taught, neither doe they receive in<g ref="char:EOLhyphen"/>ſtruction, or learn. To prove this, you bring <hi>Iſa.</hi> 54.13. where it's ſaid, <hi>All thy Children ſhall be taught of God.</hi>
+               </p>
+               <pb n="6" facs="tcp:56842:7"/>
+               <p>Anſwer, This doth no more prove that in<g ref="char:EOLhyphen"/>fants in the Cradle of eight dayes old, were taught and learned, then the Command the Di<g ref="char:EOLhyphen"/>ſciples had to teach all Nations, proves that they taught infants of eight dayes old, and that they learned inſtruction.</p>
+               <p n="2">2 This is a Propheſie that all <hi>Iſraels</hi> Children ſhould be taught of God, and not a Propheſie that they ſhould all be taught ſo as to learn, in your ſence, which is the thing you are to prove; for if they ſhould all be ſo taught, then they ſhould all of them be ſaved.</p>
+               <p n="3">3 If you ſhall ſay the Propheſie reſpects the believers Children, whether <hi>Jewes</hi> or <hi>Gentiles,</hi> that they ſhall be all taught, <hi>&amp;c.</hi> yet it doth not ſay they ſhall be taught in their Cradle, or at eight dayes old; which you muſt prove, becauſe you ſay infants are Diſciples.</p>
+               <p n="4">4 How ſoon doe you loſe the tearms of the Propoſition! You are to prove <hi>Infants</hi> are taught, and you bring a Text that ſpeaks of <hi>Children;</hi> as though there were no Children but infant-children: Whereas indeed, the Scripture tells us of all <hi>Abrahams</hi> Children, that were ſo by believing, and not by virtue of their carnall di<g ref="char:EOLhyphen"/>ſcent from <hi>Abraham,</hi> Gal. 3.7.</p>
+               <p>You further goe on, to prove that this Teach<g ref="char:EOLhyphen"/>ing is to be underſtood of infants, and that it's a teaching by which they learn, and are made Di<g ref="char:EOLhyphen"/>ſciples, by the Argument that you uſed at your houſe, which is the ſame in your Paper.</p>
+            </sp>
+            <pb n="7" facs="tcp:56842:7"/>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THey that are inwardly and effectually taught, are taught, and learne:</hi>
+               </p>
+               <p>
+                  <hi>But infants according to this Scripture</hi> (Iſa. 54.13.) <hi>are inwardly and effectually taught.</hi>
+               </p>
+               <p>Ergo. <hi>They are taught, and learn.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer, by denying the minor, to wit, That infants are inwardly and effectually taught, according to that Scripture.</p>
+               <p>For firſt, The word <hi>infants</hi> is not in the Text, which is the tearm of the minor Propoſition.</p>
+               <p n="2">2 If by <hi>all thy Children ſhall be taught of God,</hi> the meaning ſhould be, as you ſay, that the naturall ſeed of the believers bodies ſhould be all taught of God inwardly and effectually in their infancy, then to what purpoſe doe you teach them to be converted when they come to years?</p>
+               <p n="3">3 If all the naturall Children of believers be inwardly and effectually taught of God, then you muſt hold falling from grace totally and fi<g ref="char:EOLhyphen"/>nally, or elſe conclude that all the naturall Chil<g ref="char:EOLhyphen"/>dren of believers ſhall be all ſaved: For what is it to be inwardly and effectually taught, but to be really and truly Regenerated?</p>
+               <p>You goe on to prove the minor, <hi>(viz.)</hi> That all believers infants are inwardly and effectually taught; thus.</p>
+            </sp>
+            <pb n="8" facs="tcp:56842:8"/>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>IF infants were not inwardly and effectually taught,</hi> (you ſay) <hi>there were no hope of ſalvation in their death:</hi>
+               </p>
+               <p>
+                  <hi>But there is hope</hi> (ſay you) <hi>of ſalvation in their death.</hi> Ergo.</p>
+               <p>
+                  <hi>They are inwardly and effectually taught.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer, firſt, You leave out the tearm ALL, and put your Argument into indefinite tearms: But I preſume by <hi>infants</hi> you mean all the naturall ſeed of believers, according to your practice in baptizing all of them that you call ſo.</p>
+               <p n="2">2 But I ſhall anſwer further, by denying the major, which is, <hi>That if infants were not inwardly and effectually taught, there were no hope of ſalvation in their death:</hi> For firſt, there was hope of the ſalvation of thoſe Children with whom the Lord had not <hi>SPOKEN,</hi> nor to whom he had not given his Lawes, <hi>Deut.</hi> 11.1, 2. But if they had been inwardly and effectually taught, then the Lord muſt needs have ſpoken with them; and if they were taught, it muſt be in Gods Law; but it is ſaid of thoſe Children, <hi>That God had not ſpoke with them.</hi>
+               </p>
+               <p n="3">3 Again, We have great hope of the ſalva<g ref="char:EOLhyphen"/>tion of infants, becauſe they are made righteous by Jeſus Chriſt, <hi>Rom.</hi> 5.18, 19. though they
+<pb n="9" facs="tcp:56842:8"/>ſhould not know this by an inward and effectu<g ref="char:EOLhyphen"/>all Teaching.</p>
+               <p>Alſo the Scripture ſaith, <hi>That the Child ſhall not bear the ſin of the father,</hi> and it hath commit<g ref="char:EOLhyphen"/>ted in its infancy no ſin of its owne, what there<g ref="char:EOLhyphen"/>fore ſhould hinder us from hoping that they ſhal be all ſayed, if they die in their infancy, although they are not taught inwardly and effectually.</p>
+               <p n="4">4 But laſt of all, it's a fiction of your own brain to ſay, <hi>Infants are inwardly and effectually taught, or elſe there is no hope of their ſalvation,</hi> becauſe there is not one word of God for to juſtifie ſuch a ſaying in the whole Bible.</p>
+               <p>But yet you adventure to bring that Text, 1 <hi>Theſſ.</hi> 4.13. where the Apoſtle adviſeth, that the brethren would not <hi>ſorrow as thoſe that have no hope, becauſe that there ſhall be a reſurrection,</hi> which ſome did not hope for at the death of their friends, which made their ſorrow the more in<g ref="char:EOLhyphen"/>temperate. But now that I may have hope of the ſalvation of my Children at the reſurrection, although I ſhould not believe that unwritten Propoſition, to wit, <hi>That in their infancy they are effectually taught,</hi> appears, becauſe of the Text you ſo much urge in favour to your Baby-baptiſm, <hi>Mat.</hi> 19.14. where Chriſt bids the Diſciples <hi>Suffer little Children to come to him, becauſe of ſuch is the Kingdome of Heaven.</hi> So that the Kingdome of Heaven belonged to infants before they had ſo much as been with Chriſt, or before he had actually bleſſed them.</p>
+               <p>But you proceed to prove the minor Propoſi<g ref="char:EOLhyphen"/>tion, <hi>That Children muſt either be inwardly and ef<g ref="char:EOLhyphen"/>fectually
+<pb n="10" facs="tcp:56842:9"/>taught, or elſe there is no hope of ſalvation in their death;</hi> thus.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>WIthout the knowledge of God in Jeſus Chriſt, which is eternall life, there is no hope of ſal<g ref="char:EOLhyphen"/>vation.</hi>
+               </p>
+               <p>
+                  <hi>But without the inward and effectuall teaching of God in infants, there is no knowledge of God in Chriſt.</hi> Ergo.</p>
+               <p>
+                  <hi>Without the inward and effectuall teaching of God, there is no hope of the ſalvation of infants.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>YOu left out the term <hi>Infants</hi> in your major Propoſition, by which your Argument be<g ref="char:EOLhyphen"/>comes fallacious, becauſe it's a tearm that is after<g ref="char:EOLhyphen"/>wards inſerted, both in your minor, and conclu<g ref="char:EOLhyphen"/>ſion: which if you had played the part of an honeſt Logician, you ſhould have inſerted it in your major, and then it would have run thus, <hi>Without the knowledge of God in Jeſus Chriſt, which is eternall life, there is no hope of ſalvation for in<g ref="char:EOLhyphen"/>fants;</hi> then I would have denied the major, and that becauſe there is not one word of God for ſuch a Propoſition.</p>
+               <p n="2">2 God ſaid he would <hi>have pity upon the City of Ninive, becauſe their infants did not know their right hand from their left.</hi> Can any man believe that any body ſhould be acquainted with the great and ſublime matters of Jeſus Chriſt, and eternall
+<pb n="11" facs="tcp:56842:9"/>life, that knowes not his right hand from his left in nature? and yet you ſay thus of children, <hi>viz.</hi> That they have the knowledge of God in Jeſus Chriſt, when as yet they have not know<g ref="char:EOLhyphen"/>ledge to know their right hand from their left in nature.</p>
+               <p n="3">3 Again, <hi>They that know his name, will truſt in him:</hi> But you ſee Children in their infancy are call'd upon to doe neither.</p>
+               <p n="4">4 Again, They that know God in Jeſus Chriſt, are alwayes in the Scripture diſtinguiſh<g ref="char:EOLhyphen"/>ed from thoſe that know him not: If ſo, then all Children in their infancy know God in Jeſus Chriſt, or elſe you muſt ſhew how ſome infants of eight dayes old may be judged to know him, and others may be judged to be ignorant of him. If you ſay you cannot diſtinguiſh, then I ſay you have as much reaſon to baptize a <hi>Turks</hi> Child at eight dayes old, as a Chriſtians, ſince there ap<g ref="char:EOLhyphen"/>pears as much of the knowledge of God in Chriſt in the one, as in the other, and then what be<g ref="char:EOLhyphen"/>comes of your favour you would ſhew to belie<g ref="char:EOLhyphen"/>vers Children?</p>
+               <p>Again, if they, <hi>viz.</hi> the infants of believers doe know God in Jeſus Chriſt in their infancy, how comes many of them ſo wicked when they come to years? Doe you not here ſtrongly ſmell of <hi>Arminianiſme,</hi> which you ſo much preach againſt, that men may be in the ſaving know<g ref="char:EOLhyphen"/>ledge of God to day, and out of it to morrow?</p>
+               <p n="5">5 Again, the Scripture ſaith, <hi>Without ſaith 'tis impoſſible to pleaſe God,</hi> Heb. 11. and yet this is not to be applied to Children, becauſe <hi>James</hi>
+                  <pb n="12" facs="tcp:56842:10"/>ſaith, <hi>Faith without works is dead,</hi> James 2.17. So that if Children have faith in infancy, it's a dead faith, becauſe it hath no works. <hi>And faith without works cannot ſave,</hi> ver. 14. So that you ſee this Text, <hi>Heb.</hi> 11. <hi>Without faith it is impoſſible to pleaſe God,</hi> muſt for what <hi>James</hi> ſaith, be under<g ref="char:EOLhyphen"/>ſtood of men that are arived above the ſtature of intants of eight dayes old. In the like manner muſt we underſtand Chriſt, <hi>John</hi> 17. <hi>This is life eternall, that they know thee the onely true God, and Jeſus Chriſt whom thou haſt ſent.</hi> Or elſe we muſt conclude, that ſome Children ſhall be damned dying in their infancy, for not knowing God in Jeſus Chriſt, when they were no way made ca<g ref="char:EOLhyphen"/>pable of ſuch a knowledge.</p>
+               <p>Laſtly, The Scriptures ſay, <hi>Deut.</hi> 1.39. that Children in their infancy have no knowledge of good or evill; the like is ſaid of Chriſt himſelf in his infancy, <hi>Iſa.</hi> 7.14, 15, 16. How then can you imagin that infants can know God in Jeſus Chriſt, and yet not know good, when the know<g ref="char:EOLhyphen"/>ledge of God in Chriſt is the knowledge of the beſt good of all.</p>
+               <p>But you goe on, and tell us,
+<q>That infants dying in their infancy are ſaved.</q>
+               </p>
+               <p>Which is not the thing denied; but the thing denied, is, That they cannot be ſaved without the knowledge of God in Chriſt; and inſtead of this, you would prove that infants ſhall be ſa<g ref="char:EOLhyphen"/>ved, which I never denied.</p>
+               <p>Only let me tell you, That you miſerably abuſe the Scripture you bring to prove their ſal<g ref="char:EOLhyphen"/>vation,
+<pb n="13" facs="tcp:56842:10"/>which is <hi>Iſa.</hi> 65.20. from which Text you obſerve,
+<q>That they dye in as good a caſe, as Diſciples of a hundred years ſtanding.</q>
+               </p>
+               <p>O miſerable blindneſſe! the Text ſaith, <hi>There ſhall not be in the New Jeruſalem an infant of dayes;</hi> and yet you bring this in favour to your eight dayes infants.</p>
+               <p>Again, You ſay, <hi>That infants dye in as good a condition, as Diſciples of a hundred years ſtanding;</hi> whereas the Text ſaith, <hi>The Child ſhall dye a hundred years old,</hi> I pray how many ſuch infants doe you baptize? So that this Text I believe you urged without Book, for there is not the leaſt word of ſuch infants as you plead for, nor of ſuch old Diſciples to whom you would com<g ref="char:EOLhyphen"/>pare them. But are you ſo charitable towards infants, that you believe they ſhall be ſaved? then pray let not the Midwives baptize, for fear they ſhould be damned, which ſome of your cloath have allowed, making the ſprinkling wa<g ref="char:EOLhyphen"/>ter upon their face, a cauſe of their ſalvation, rather then the knowledge of God in Chriſt, that you now plead for.</p>
+               <p>But you goe on, and tell us.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat if we judge infants ſhall be ſaved, then they ſhould be daily added to the Church by Baptiſm.</hi> And for this you cite <hi>Acts</hi> 2. <hi>ult.</hi>
+               </p>
+            </sp>
+            <pb n="14" facs="tcp:56842:11"/>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Shall firſt ſpeak to your Argument, and then to the Text.</p>
+               <p>This is a palpable <hi>non ſequitor,</hi> for by this Argu<g ref="char:EOLhyphen"/>ment <hi>Moſes</hi> might have Circumciſed Children the firſt day they were born; for <hi>Moſes</hi> might have ſaid, I judge theſe Children have a right to ſalvation the firſt day they are borne, therefore they have a right to be added to the Church by circumciſio<g ref="char:cmbAbbrStroke">̄</g> the firſt day they are born. Upon this account he might have circumciſed the females, becauſe he judged that ſalvation did belong to them. But if you ſhall think to ſalve this ſore, by ſaying <hi>He was commanded to circumciſe the eigth day,</hi> and to circumciſe the male Children; let me tell you, that he was not forbid either the one or the other: But if you ſhall ſay, that in as much as God commanded the eighth day, he did forbid doing of it before; and in as much as he did Command the Circumciſing of males, he forbid the circumciſing of females: Let me tell you then, that in as much as God hath preſcribed believing to be the time of baptizing, it will be found a ſin to doe it upon any perſons, at any other time but when they believe with all their hearts, according to <hi>Acts</hi> 8.37. And as for that Text which you urge, <hi>Acts</hi> 2.47. <hi>The Lord ad<g ref="char:EOLhyphen"/>ded to the Church daily ſuch as ſhould be ſaved.</hi> Compare this but with <hi>verſ.</hi> 41. and you will find theſe to be no ſuch Babies as you baptize, and add to your Church; for the Text ſaith, <hi>Then they that gladly received his word, were bapti<g ref="char:EOLhyphen"/>zed,
+<pb n="15" facs="tcp:56842:11"/>and the ſame day there was added to them about three thouſand ſoules.</hi> And <hi>Acts</hi> 5.14. Believers were added to the Lord. What ſerves this to prove that which you would have? Doth it not ſtrongly carry the contrary, That infants were not baptized, becauſe they are no where called believers.</p>
+               <p>You now face about, as though all were not ſafe in the Rear, and goe back to the Text in <hi>Eſay</hi> 54. Surely you feared all the hay and ſtub<g ref="char:EOLhyphen"/>ble that you built upon that Text, was ſet on fire by the Anſwers that I gave to it at your houſe, and now you are returning to quench it: But you muſt know, that your clouds of Argu<g ref="char:EOLhyphen"/>ments are without water, as I ſhall make appear upon Examination.</p>
+               <p>Firſt, You ſay,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat teaching muſt be inward and effectuall, in</hi> Iſa. 54.13.</p>
+               <p n="1">1 <hi>Becauſe it hath the great peace of God going along with it.</hi>
+               </p>
+               <p>From whence you Argue thus.</p>
+               <p>
+                  <hi>They that have the great peace of God going along with their teaching, are inwardly and effectually taught:</hi>
+               </p>
+               <p>
+                  <hi>But all the Children of Gods people have the great peace of God goe along with their teaching;</hi>
+               </p>
+               <p>
+                  <hi>Therefore they are inwardly and effectually taught.</hi>
+               </p>
+            </sp>
+            <pb n="16" facs="tcp:56842:12"/>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer this, by denying the major; for all the world gave the great peace of God going along with their teaching, in as much as God holds forth life and peace in the Goſpel. And yet you will not ſay that all the world are in<g ref="char:EOLhyphen"/>wardly and effectually taught.</p>
+               <p n="2">2 Again, to your minor, if by all the Children of Gods people, you mean all their natural Chil<g ref="char:EOLhyphen"/>dren in their infancy, as you muſt, or elſe you ſay nothing to your purpoſe; then I doe deny the minor, becauſe it ſuppoſeth God doth inwardly and effectually preach peace to believers infants, whereas he preacheth nothing at all to them: Neither doth the Text ſay he doth, for then they muſt <hi>(viz.)</hi> all the infants of believers, be actu<g ref="char:EOLhyphen"/>ally ſaved, although they ſhould live to perpe<g ref="char:EOLhyphen"/>trate never ſuch horrible wickedneſſes; for if they, to wit, all the naturall Children of belie<g ref="char:EOLhyphen"/>vers, are in this condition in their infancy, what ſin can deprive them of eternall life, when they come to years? unleſſe (as I have ſaid before) you will hold falling from this grace and peace you ſpeak of, totally and finally; which is an opinion that you doe not reckon among the leaſt of errors.</p>
+               <p>Again, if believers naturall Children, as ſuch, are thus priviledged, as you ſpeak of, with this grace and peace, then the Children of the fleſh are the Children of God. But the Children of the fleſh are not the Children of God. <hi>Ergo.</hi> They are
+<pb n="17" facs="tcp:56842:12"/>not as believers naturall Children, thus privi<g ref="char:EOLhyphen"/>ledged.</p>
+               <p>You goe on to a ſecond Reaſon, to prove the teaching in <hi>Iſa.</hi> 54. to be inward and effectuall teaching; which what if it were granted, doth it prove that this was to infants in the Cradle of eight dayes old: But we have before ſhewed the contrary, that it is not meant of ſuch: But how<g ref="char:EOLhyphen"/>ever let's hear your other Argument, which is.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat if it were not inward, and effectuall teaching, it were rather a judgement threatned, then a mercy promiſed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>BElike then by this kind of reaſon, when God teacheth a people, and they doe not learn, his teaching is a judgement, and not a mercy. If this be true, then they that are under your teach<g ref="char:EOLhyphen"/>ing, and are not inwardly and effectually taught, doe not live under mercies, but judgements; and ſo they doe not deſpiſe a mercy, when they are not inwardly and effectually taught, but a judge<g ref="char:EOLhyphen"/>ment. The weight of this Reaſon is lighter then vanity.</p>
+               <p>Your third Reaſon that this muſt needs be in<g ref="char:EOLhyphen"/>ward and effectuall teaching, is,</p>
+            </sp>
+            <pb n="18" facs="tcp:56842:13"/>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>BEcauſe John brings it in as a proof of effectuall Teaching.</hi>
+               </p>
+               <p>From whence you ſay the Argument may be thus framed.</p>
+               <p>
+                  <hi>THey that are drawne to the Father, and come to the Son, are effectually taught:</hi>
+               </p>
+               <p>
+                  <hi>But they that are taught according to that Scrip<g ref="char:EOLhyphen"/>ture,</hi> Iſa. 54. <hi>are drawne to the father, and come to the Son.</hi> Ergo.</p>
+               <p>
+                  <hi>They are inwardly and effectually taught.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>HEre the minor is denied, for the Reaſons be<g ref="char:EOLhyphen"/>fore named <hi>(viz.)</hi> For then all believers Children muſt all be ſaved, or elſe they may fall away from this teaching. And Chriſt himſelfe doth ſuppoſe as much, in the place cited by you, out of <hi>John</hi> 6.44, 45. where though he ſaith, <hi>It's written, they ſhall be all taught of God;</hi> here is not the leaſt cry of the teaching of infants of eight dayes old.</p>
+               <p>But ſecondly, Though he ſaith, <hi>They ſhall be all taught of God,</hi> he doth not ſay, they ſhall all hear, learn, and come to him.</p>
+               <p>But he ſaith, <hi>Every one that hath HEARD, and LEARNED, comes,</hi> thereby ſhewing that more were taught, and more heard, then did learn and come to him.</p>
+               <pb n="19" facs="tcp:56842:13"/>
+               <p>You goe on to a fourth Reaſon, and ſay,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>CHildren are all taught of God, becauſe all know him from the leaſt to the greateſt,</hi> Heb. 8.11.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Wonder you have forgot the Curſe that God pronounceth againſt him that addeth, or ta<g ref="char:EOLhyphen"/>keth from his word; which if you had not, you would not have ſaid, that all know him from the leaſt, to the greateſt; when the Text ſaith no ſuch thing, but that <hi>they SHALL all know him from the leaſt to the greateſt;</hi> not that they doe all know him. But if you ſay, they do all know him; then remember that the ſame Text ſaith, <hi>They ſhall not need to teach their Neighbours, ſaying, know the Lord:</hi> If this be already fullfilled, what doe you preach for? And if all believers Children both little and great, know the Lord ſo as to need none to teach them, then you muſt find out ano<g ref="char:EOLhyphen"/>ther Trade, or elſe goe and teach among the Heathen; for you judge all the Pariſh of <hi>Criple<g ref="char:EOLhyphen"/>gate</hi> believers, in as much as you baptize all their Children, and refuſe none: And by the ſame rule you may as well judge all <hi>England</hi> believers, and if ſo, then if that all theſe believers and their Children know the Lord, according to that text, ſo as they need no Teacher, from the greateſt to the leaſt, then you muſt goe to Preach to the In<g ref="char:EOLhyphen"/>fidells in <hi>America,</hi> for by your own Text we have
+<pb n="20" facs="tcp:56842:14"/>no need of you here. I doe therefore charge all men with folly in the Pariſh of <hi>Criplegate,</hi> that ſhall pay you a farthing for Preaching, till you doe repent of your folly in thus expounding <hi>Heb.</hi> 8.11. For is it not folly for a man to pay for that he hath no need of?</p>
+               <p n="5">5 You goe on, and tell us.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat Children trust in God,</hi> Pſal. 22.9.</p>
+               <p>Ergo.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>HEre you pervert Scripture, for the text ſaith not that Children truſt in God in their in<g ref="char:EOLhyphen"/>fancy; but it ſaith that <hi>David</hi> as well as other infants were made by God to hope upon their mothers breaſts; for theſe words <hi>[When I was]</hi> are unneceſſarily ſupplied by the Tranſlater, and are not in the Originall, and therefore we ſee that as well unbelievers as believers Children doe hope upon their mothers breaſt. I wonder how any man in his right wits can ſay from this Text, that <hi>David</hi> or any infant in their infancy doe truſt in God? Nay, may not a man as ratio<g ref="char:EOLhyphen"/>nally conclude, that the whole Creation are in<g ref="char:EOLhyphen"/>wardly &amp; effectually taught, and that they truſt in God, becauſe <hi>Paul</hi> ſaith, <hi>Rom.</hi> 8.20. that <hi>the Creature was made ſubject to vanity, not willingly, but by reaſon of him that hath ſubjected the ſame IN HOPE.</hi>
+               </p>
+               <pb n="21" facs="tcp:56842:14"/>
+               <p n="6">6 You goe on, and ſay,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat infants are moſt humble, therefore taught.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>THe Text that you urge, <hi>Luke</hi> 9.48. ſaith no ſuch thing, only that Chriſt ſet a little Child before them for example: I would therefore know whether or no the Text proves the humi<g ref="char:EOLhyphen"/>lity of theſe Children to be by teaching, or by nature. If by teaching, then the Diſciples had no need to learn of Children, becauſe it cannot rea<g ref="char:EOLhyphen"/>ſonably be ſuppoſed that infants in the Cradle ſhould be taught more then thoſe Maſter-build<g ref="char:EOLhyphen"/>ers that were to goe forth to teach others. If this humility was naturall to them, as to all Children before they come to have knowledge, then it makes nothing for your purpoſe; and that it was ſuch, appears by the matter in hand, for the que<g ref="char:EOLhyphen"/>ſtion was, who ſhould be the greateſt, <hi>verſ.</hi> 46. Now he bids them take example of Children in their infancy, who then have no natural propen<g ref="char:EOLhyphen"/>ſity to ſuch kind of ambition, as to think them<g ref="char:EOLhyphen"/>ſelves greater, or more honourable then others. In the like caſe Chriſt bids his Diſciples <hi>Be wiſe as Serpents,</hi> may not a man as well conclude that Serpents are inwardly and effectually taught, becauſe Chriſt ſends his Diſciples to learn wiſe<g ref="char:EOLhyphen"/>dome of them, as you may conclude infants are inwardly and effectually taught, becauſe Chriſt ſends his Diſciples to learn humility of them?
+<pb n="22" facs="tcp:56842:15"/>And Chriſt bids his Diſciples to learn innocency of Doves, doth it therefore follow that Doves are inwardly and effectually taught?</p>
+               <p n="7">7 You tell us</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat inward and effectuall teaching of infants ap<g ref="char:EOLhyphen"/>pears from</hi> 1 Theſſ. 4.9, 10. Where he tells the brethren, they were taught of God to love one another.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>WOuld any body that had but common ſence conclude that <hi>Paul</hi> writ this to in<g ref="char:EOLhyphen"/>fants, when he writes to the <hi>Theſſalonians,</hi> that they are <hi>taught of God to love one another?</hi>
+               </p>
+               <p n="8">8 You tell us,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat you may ſay of infants, and their ſpirituall birth, and teaching, as</hi> Solomon <hi>ſaith of the na<g ref="char:EOLhyphen"/>turall,</hi> Eccleſ. 11.5. As thou knoweſt not which is the way of the Spirit, nor how the bones doe grow in the womb of her that is with Child, even ſo thou knoweſt not the works of God that ma<g ref="char:EOLhyphen"/>keth all. <hi>Yet this I grant, that the time of Gods teach<g ref="char:EOLhyphen"/>ing is not alwayes in infancy; for ſome are called at the laſt houre, and you baptize ſome who (poſſibly) are not effectually called till afterward.</hi>
+               </p>
+            </sp>
+            <pb n="23" facs="tcp:56842:15"/>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>INdeed you may ſay ſo of their ſpirituall birth, for your tongue is your owne; but the Scrip<g ref="char:EOLhyphen"/>ture ſpeaks of no ſuch ſpirituall birth in infants, as you doe imagine: And you have anſwered your ſelfe, and given a reaſon why you may not ſay of their ſpirituall birth, as <hi>Solomon</hi> doth of their naturall, becauſe you ſay that many are not ſpiritually born in their infancy; but I hope you cannot ſay ſo of any infants, that they have not a naturall birth; for though <hi>Solomon</hi> ſaith, <hi>We doe not know how the Children are formed in the womb,</hi> yet he denies not but they are all formed in the womb: But you as you doe not know how, ſo you confeſſe you doe not know who are ſpiritually thus born. But is not this ſtrange, that you ſhould ſpend ſo many Arguments as you did a little before, to prove that all infants of believers are inwardly and effectually taught, drawn, and come to Chriſt, and that now you ſhould tell us, that ſome of them are not called till the laſt houre: And if you ſhould think to excuſe the matter by ſaying, that you mean ſome unbelievers Children are not called till then; that will not doe, becauſe you told me in the be<g ref="char:EOLhyphen"/>ginning of your paper, that it was for believers infants that you pleaded, and the whole ſcope of your paper ſpeaks forth the ſame thing, and not one word of unbelievers Children, <hi>&amp;c.</hi>
+               </p>
+               <p>You tell us, <hi>That ſome that we baptize are not effectually taught till afterwards.</hi>
+               </p>
+               <p>To this I anſwer, That it juſtifieth us if they
+<pb n="24" facs="tcp:56842:16"/>doe profeſſe ſo to be when they are baptized, <hi>For with the heart man doth believe, and with the mouth confeſſion is made to ſalvation,</hi> Rom. 10.10. And ſo it would juſtifie you, if that there were a confeſſion of faith made at the time you did bap<g ref="char:EOLhyphen"/>tize, and a life conformable thereunto, which is all that we are to look after, becauſe it's Gods work to ſearch the heart, and not ours.</p>
+               <p>You proceed to prove (if you can) that in<g ref="char:EOLhyphen"/>fants are Diſciples, thus.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THey to whom we may give a Cup of cold water in the name of Diſciples, are Diſciples:</hi>
+               </p>
+               <p>
+                  <hi>But we may give a Cup of cold water to little Chil<g ref="char:EOLhyphen"/>dren;</hi>
+               </p>
+               <p>
+                  <hi>Therefore little Children are Diſciples.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer, firſt, by denying the major; for may I not as well ſay, that they to whom we may give a thing in the name of a King, are Kings; and they to whom we may ſhew favour in the name of God, and Chriſt, are ſo many Gods and Chriſts; as you can ſay, they to whom we may give a cup of cold water in the name of a Diſci<g ref="char:EOLhyphen"/>ple, are Diſciples: Who ſeeth not the weakneſſe of this kind of arguing? But now to the minor Propoſition, where you aſſume that we may give to little children a cup of cold water in the name of a Diſciple. I anſwer, If by little Children you mean ſuch as <hi>John</hi> means, 1 <hi>John</hi> 2.1. <hi>Little Chil<g ref="char:EOLhyphen"/>dren,
+<pb n="25" facs="tcp:56842:16"/>theſe things I write, that you ſin not.</hi> And <hi>ver.</hi> 12. <hi>I write unto you little Children, becauſe your ſins are for<g ref="char:EOLhyphen"/>given.</hi> I ſay, if you doe mean ſuch, I doe grant the minor Propoſition, <hi>viz.</hi> That to ſuch little ones we may give a Cup of water in the name of a Diſciple: But this I ſuppoſe cannot be your meaning, in as much as you are to prove that infants are Diſciples, and there is nothing to that purpoſe in the Text: However I take notice of your wandring up and downe, in ſaying, Sometimes infants are Diſciples, not telling us whether you mean believers or unbe<g ref="char:EOLhyphen"/>lievers infants. Sometimes that all believers infants are Diſciples: And ſometimes that ſome are not called till the laſt houre: Only we take for granted what you ſaid at firſt, that you would undertake for believers Children; if ſo, then ſuppoſe that the little ones here in <hi>Mat.</hi> 10. <hi>laſt.</hi> were underſtood of infants, yet how doe you prove that they were be<g ref="char:EOLhyphen"/>lievers infants? But it will be a taſk too hard for you to doe either the one, or the other.</p>
+               <p>You goe on to tell us,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat you have five things more to ſay for infants Di<g ref="char:EOLhyphen"/>ſciple-ſhip.</hi>
+               </p>
+               <p>
+                  <hi>The firſt is this, If that infants may be called his ſer<g ref="char:EOLhyphen"/>vants, though they doe no ſervice,</hi> Lev. 21.41, 42.</p>
+               <p>
+                  <hi>Then they may be called Diſciples, though they doe not appear to learn:</hi>
+               </p>
+               <p>
+                  <hi>But they may be called Gods ſervants, though they doe him no ſervice.</hi> Ergo.</p>
+               <p>
+                  <hi>They may be called Diſciples, though they doe not ap<g ref="char:EOLhyphen"/>pear to learn.</hi>
+               </p>
+            </sp>
+            <pb n="26" facs="tcp:56842:17"/>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer, firſt, by denying the major, for if it be granted that Children were called his ſervants, though they did God no ſervice, yet it followes not that therefore they are Diſciples, though they doe not learn.</p>
+               <p>May not a man as well prove the unprofitable ſer<g ref="char:EOLhyphen"/>vant, <hi>Luke</hi> 19. by the ſame Logick, to be a Diſciple? as thus: If one may be called Chriſts ſervant, though he doe him no work, then he may be called Chriſts Diſciple, though he doe not appear to learn: But the unprofitable ſervant, <hi>Luke</hi> 19. was called Chriſts ſervant, as appears by <hi>verſ.</hi> 13. and <hi>Mat.</hi> 25.14. and yet he did him no work. <hi>Ergo.</hi> He was Chriſts Diſciple, though he did not appear to learn: And by this Rule the <hi>non ſequitor</hi> of your major Propoſi<g ref="char:EOLhyphen"/>tion appears.</p>
+               <p>But now to your minor, that Children are called Gods ſervants, though they did him no ſervice.</p>
+               <p>I anſwer, firſt, That infants of eight dayes old are not called Gods ſervants any where in Scripture. 2 As to the Text urged in favour to this, <hi>Lev.</hi> 25.41, 42. if you compare it with <hi>verſ.</hi> 39. you will ſee it was not ſpoken to prove infants in the Cradle Gods ſervants, but rather to ſhew, that becauſe the Nation of <hi>Iſrael,</hi> that he brought out of <hi>Aegypt,</hi> were his ſer<g ref="char:EOLhyphen"/>vants, therefore they ſhould not be ſlaves one to ano<g ref="char:EOLhyphen"/>ther, and ſold as bond men, which they never did uſe to doe to Children in the Cradle.</p>
+               <p n="3">3 Again, Cannot God ſpeak many things con<g ref="char:EOLhyphen"/>cerning Children, as that they are his ſervants, <hi>&amp;c.</hi> and yet not ſpeak of Children in their infancy? May not a man as well ſay, becauſe <hi>Iſrael</hi> was bid to teach
+<pb n="27" facs="tcp:56842:17"/>their Children, that therefore they were to teach in<g ref="char:EOLhyphen"/>fants of eight dayes old? And becauſe <hi>Joſh.</hi> 22.10. it's ſaid <hi>The Children of Gad built an Altar,</hi> therefore the infants of Gad were Maſons, and Stone-cutters? And becauſe it's ſaid of the vertuous woman, <hi>Prov.</hi> 31.20. <hi>Her Children riſe up, and call her bleſſed,</hi> there<g ref="char:EOLhyphen"/>fore her little infants of eight dayes old did call her bleſſed? Is not this as good reaſon as that which you bring, <hi>viz.</hi> Becauſe God ſaith, the <hi>Iſraelites</hi> children were his ſervants, therefore their infants of eight dayes old were his ſervants.</p>
+               <p n="2">2 You goe on, and tell us, that</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>PEter in</hi> Acts 15.10. <hi>calls infants Diſciples.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>ARe you not aſhamed to ſpeak ſuch a notorious falſity? Doth that Text ſay, that <hi>Peter</hi> calls in<g ref="char:EOLhyphen"/>fants Diſciples? Oh what a mercy is it that we can read! ſurely if we could not, you might as well ſay, that <hi>Peter</hi> ſaid you ſhould have the fifth penny of our eſtate for preaching, as ſay he ſaith, Infants are Di<g ref="char:EOLhyphen"/>ſciples.</p>
+               <p>Now indeed <hi>Peter</hi> blames them for putting the yoke of Circumciſion upon Diſciples; but this doth no more prove infants to be Diſciples, then if a man would ſay, The Clergy are oppreſt by Taxes, there<g ref="char:EOLhyphen"/>fore every one that's oppreſt by Taxes, is a Clergy<g ref="char:EOLhyphen"/>man; for is it not the ſame that you bring? The Diſciples were circumciſed, therefore all that they circumciſed, were Diſciples. Now if you look to the foregoing verſes, you ſhall ſee that the falſe Teach<g ref="char:EOLhyphen"/>ers taught circumciſion to the brethren, and not to infants, and told the Diſciples, that if they were not
+<pb n="28" facs="tcp:56842:18"/>circumciſed, they could not be ſaved. And now if it be granted, that they would have circumciſed in<g ref="char:EOLhyphen"/>fants, as well as old folks, doth this prove infants are old folks? No more doth your ſaying, they would circumciſe Diſciples, prove infants to be Diſciples.</p>
+               <p>You proceed to a third Reaſon why Children ſhould be Diſciples, and that is this, <hi>viz.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat if you ſhould grant they are not learned, but ig<g ref="char:EOLhyphen"/>norant, yet ignorance</hi> (you ſay) <hi>did not debar from Circumciſion, therefore not from baptiſm.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer, by ſhewing you how willing you are to gather up any thing to ſerve your turne, though nothing to purpoſe; one while they, <hi>viz.</hi> infants, are to be baptized, becauſe believers Children, doe know the Lord, and are taught of God, <hi>&amp;c.</hi> And now you plead, they may be baptized, though igno<g ref="char:EOLhyphen"/>rant: What a miſerable ſhuffling is here? What, knowledge the cauſe all this while, and now be bap<g ref="char:EOLhyphen"/>tized though they are ignorant, what ſtrange Logick is this?</p>
+               <p>But to the Conſequence, <hi>viz. Ignorance</hi> (you ſay) <hi>did not hinder from Circumeiſion, therefore not from baptiſm.</hi>
+               </p>
+               <p>I anſwer, firſt, ignorance could not hinder infants from that which God commanded Parents to doe unto their Children, while they were infants; ſo that if God had commanded parents to baptize their infants, then their ignorance could not hinder, no more then it could hinder their parents from Cir<g ref="char:EOLhyphen"/>cumciſing them, after God had commanded it. But here you doe beg the queſtion, by taking it for gran<g ref="char:EOLhyphen"/>ted,
+<pb n="29" facs="tcp:56842:18"/>that God commanded infants to be baptized, as he did Command the Children of <hi>Abraham</hi> to be Circumciſed.</p>
+               <p n="2">2 Again, in Goſpel worſhip whatever is not of faith, is ſin. God will (in Goſpel worſhip) be ſerved in Spirit, which is a ſervice no where required of in<g ref="char:EOLhyphen"/>fants, therefore ignorance muſt needs hinder infants from that which God no where requireth, and which they are no way capable to perform.</p>
+               <p>You goe on, and tell us, that</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>IGnorance did not hinder Peter from his Maſters waſh<g ref="char:EOLhyphen"/>ing his feet,</hi> John 13.7, 8. <hi>The 7<hi rend="sup">th</hi> verſe</hi> (you ſay) <hi>ſhewes his ignorance, and the 8<hi rend="sup">th</hi> the neceſſity of his waſhing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>WHy doe you not conclude ſomewhat from hence, or elſe why doe you bring it? If you bring it to prove that therefore ignorance may not hinder Children from baptiſm, then pray ſee whe<g ref="char:EOLhyphen"/>ther or no <hi>Peter</hi> did not know Chriſt waſhed his feet, and whether in reaſon can you believe that Chriſt could waſh <hi>Peters</hi> feet, and <hi>Peter</hi> be as ignorant of his waſhing, as your babies are of their ſprinkling.</p>
+               <p>Again, it plainly appears that <hi>Peter</hi> was ignorant, not of the waſhing it ſelfe, but of ſomewhat Chriſt would make known by it, which was to ſhew, That they whom he waſhed ſhould learn of him to doe ſo to others; and therefore Chriſt aſketh his Diſciples if they knew what he had done to them. Now they could not but know he had waſhed them, but they did not know that he had hereby ſet them a Copy to write after; and therefore if your Children had
+<pb n="30" facs="tcp:56842:19"/>as much knowledge of Chriſt when you baptize them, as <hi>Peter</hi> had when Chriſt waſhed his feet, though they might not know all circumſtances re<g ref="char:EOLhyphen"/>lating to baptiſm, then indeed it were ſomewhat to your purpoſe to quote this place.</p>
+               <p>Again, is it not a ſtrong ſigne of a weak cauſe, that you ſhould compare the ignorance of <hi>Peter</hi> to the ignorance of your infants? his being but a partiall ignorance in a circumſtance, and your Babes are to<g ref="char:EOLhyphen"/>tally ignorant of both ſubſtance and circumſtance. Again, this Law of waſhing the Diſciples feet was never in practice before, till Chriſt now did it, and commanded it; and therefore no marvell though the Apoſtles were ignorant of the end of it, till it was de<g ref="char:EOLhyphen"/>clared; neither was there any ſuch qualifications required in waſhing one anothers feet, as is required in baptiſme.</p>
+               <p>You proceed, and ſay, that</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Kellie.</speaker>
+               <p>
+                  <hi>THe Scripture doth not ſay, None ſhall be baptized but underſtanding Diſciples, and if it did</hi> (you ſay) <hi>yet that had not excluded infants; for the Apoſtle ſaith,</hi> He that will not labour, muſt not eat, <hi>and yet Chil<g ref="char:EOLhyphen"/>dren</hi> (ſay you) <hi>muſt not ſtarve, though they doe not labour.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>TO this I anſwer, firſt, that the Scripture doth not ſay, you ſhall not baptize, bells, nor goe a Pilgrimage, why then do not you do theſe things?</p>
+               <p n="2">2 Again it did not ſay (as we have elſwhere ob<g ref="char:EOLhyphen"/>ſerved) that the Children of <hi>Abraham</hi> ſhould not be circumciſed the ſixth or fourth day, why then did not they doe it before? Nor the Scripture doth not
+<pb n="31" facs="tcp:56842:19"/>ſay, Infants ſhall not receive the Sacrament of the bread and wine, why doe you then refuſe to give it them? Doe you not plainly ſee that you condemn others in the thing you allow? for you condemn us that will not baptize our infants, becauſe you ſay it's no where forbidden; why may not others as well condemn you for refuſing to give the Lords Supper to infants, by the ſame rule, becauſe it's no where forbidden.</p>
+               <p>I but you will ſay, it's implicitly forbidden, 1 <hi>Cor.</hi> 11.28. becauſe the Text ſaith, <hi>Let a man examine himſelfe, and ſo let him eat;</hi> and Children cannot exa<g ref="char:EOLhyphen"/>mine themſelves. In the like manner (ſay I) in<g ref="char:EOLhyphen"/>fants are denied baptiſm, becauſe the Scripture ſaith, <hi>He that BELIEVETH, and is baptized,</hi> &amp;c. <hi>Mark</hi> 16. and <hi>If thou BELIEVEST, thou mayeſt be baptized,</hi> Acts 8. Doe not theſe in the judgement of any rational man as plainly exclude infants from baptiſm, as the other Scripture doth exclude them from the Supper?</p>
+               <p>But you preſume and ſay, that</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>IF the Scripture had ſaid, None but underſtanding Diſci<g ref="char:EOLhyphen"/>ples ſhould be baptized, that had not excluded infants.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>IS not this ſtrange that you ſhould ſay, That they are not to be excluded, though the Scripture doe exclude them? Doe you not hereby give us to un<g ref="char:EOLhyphen"/>derſtand, that let the word of God ſay what it will, you will doe what you liſt? Neither doe you think to mend the matter by that place of Scripture, 2 <hi>Theſſ.</hi> 3.10. <hi>If any will not worke, he ſhould not eat.</hi> Now you ſeem to conclude from hence, that though Children doe not work, yet they muſt eat. <hi>Ergo.</hi> Though chil<g ref="char:EOLhyphen"/>dren
+<pb n="32" facs="tcp:56842:20"/>doe not believe, yet they muſt be baptized. Now ſee the fallacy; the Text doth not ſay, <hi>He that DOTH not worke,</hi> as you ſay, when you apply it to in<g ref="char:EOLhyphen"/>fants; but <hi>He that</hi> WILL <hi>not worke.</hi> Now if there be any children that WILL not work, they muſt not eat, <hi>viz.</hi> of the Churches Charity; therefore infants, and they that are impotent, it cannot be ſaid of them that <hi>they</hi> WILL <hi>not work.</hi> Now if God had given you the like Command to baptize Children in their in<g ref="char:EOLhyphen"/>fancy, as he hath done to fathers and mothers to feed them in their infancy, then you had ſaid ſomething to the purpoſe, otherwiſe you had as good have ſaid nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>Again, You (ſay I) brought in the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to prove that the Command, <hi>Mat.</hi> 28. <hi>reacheth only Diſciples, not all Nations; my reaſon</hi> (you ſay) <hi>is, Be<g ref="char:EOLhyphen"/>cauſe</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>is the Neuter, and</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the Maſculine Gender. But this</hi> (you ſay) <hi>is no reaſon at all, as appears by</hi> Mat. 25.32. <hi>where the word</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>muſt neds have relation to</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>unleſſe there ſhall not be a ſeparation between all Na<g ref="char:EOLhyphen"/>tions at the laſt day. This</hi> Enallage generis, <hi>where the Maſculine Gender is put with</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>is uſuall in Scripture, and many times</hi> (you ſay) <hi>includes Children, as</hi> Mat. 25.32. <hi>Rev.</hi> 2.26, 27. &amp; 19.15. <hi>Acts</hi> 15.17. &amp; 21.25. &amp; 26.17. &amp; 28.28. <hi>Epheſ.</hi> 2.11. &amp; 4.17.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p n="1">1 YOu did agree at your houſe, that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> did re<g ref="char:EOLhyphen"/>late to <hi>Diſciple,</hi> and accordingly went about to prove that Children were Diſciples, as appears by many of your Arguments.</p>
+               <p n="2">2 I ſaid not that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> did no where refer to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, but that in this Scripture it ought to refer to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which you alſo granted.</p>
+               <pb n="33" facs="tcp:56842:20"/>
+               <p n="3">3 Though <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> be referred to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, yet it doth not follow that the infants in the Nations are included, yea, the contrary is apparent from the latter clauſe of the ſentence, where it is ſaid, <hi>Teaching them,</hi> which doth ſufficiently intimate, that thoſe of the Nations are hereby only meant, who are capable of Diſci<g ref="char:EOLhyphen"/>pline, and conſequently had the uſe of reaſon, which agreeth not unto infants, who, as the Scripture ſhew<g ref="char:EOLhyphen"/>eth, together with the atteſtation of common ſenſe, have no knowledge between good and evill. <hi>Deut.</hi> 1.39. <hi>Moreover, your little ones which you ſaid ſhould be a prey, and your Children which in that day had no know<g ref="char:EOLhyphen"/>ledge between good and evill, they ſhall goe in thither, and unto them will I give it, and they ſhall poſſeſſe it.</hi> Iſai 7.14, 15, 16. <hi>Therefore the Lord himſelfe ſhall give you a ſigne, behold a Virgin ſhall conceive a Son, and ſhall call his name Imanuel. Butter and Honey ſhall he eat, that he may know to refuſe the evill, and chooſe the good. For before the Child ſhall know to refuſe the evill, and chooſe the good, the Land that thou abhorreſt, ſhall be forſaken of both her Kings.</hi> Likewiſe the very inſtance you bring out of <hi>Mat.</hi> 25.32. doth refute your opinion, for there ſuch only of the Nations are underſtood, as had acted in the world, and done either good or evill; for they are ſuch as had either relieved Chriſt in his neceſſity, or refuſed to doe ſo; neither of which agreeth to infants; for would it not be ridiculous to imagine that our Lord Chriſt ſhould ſay to the in<g ref="char:EOLhyphen"/>fants, <hi>Goe yee curſed into everlaſting fire, for I was hun<g ref="char:EOLhyphen"/>gry, and yee fed me not?</hi> Beſides, every one of the reſt of the places cited by you, where the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is found, doth, if the circumſtances be examined, mean them only of the Nations that had the uſe of reaſon,
+<pb n="34" facs="tcp:56842:21"/>and ſo are not a whit to your purpoſe.</p>
+               <p n="4">4 You goe on to another Argument, and tell me, that</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat which God hath once commanded, and never re<g ref="char:EOLhyphen"/>pealed, ought ſtill to be obeyed:</hi>
+               </p>
+               <p>
+                  <hi>But he did once Command that the Children of his ſer<g ref="char:EOLhyphen"/>vants, whom he hath taken into Covenant with himſelfe, ſhould have the ſeale of the rightouſneſſe of faith ſet upon them, which he hath never forbidden, only he hath taken away the outward circumciſion, therefore we muſt obey that Command still.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Doe deny this whole Sillogiſm, becauſe firſt, there is not one of the tearms of the Propoſ: in it; which had you argued honeſtly, you ſhould have ſaid thus, <hi>That which God once commanded, and never repealed, is in force ſtill:</hi> (and then you ſhould have aſſumed) <hi>But God did once Command the baptizing of infants, and never repealed it; therefore that Command is in force still.</hi> Indeed had you reaſoned thus, and proved the minor, a gracious heart would hardly have denied it: But then</p>
+               <p n="2">2 This Argument contradicts it ſelfe; for you ſay, He did once Command, and never afterwards forbid that infants ſhould have the ſeale and token of the Covenant; and yet you ſay preſently after, That Circumciſion was taken away; then it fo<g ref="char:EOLhyphen"/>lowes, that the ſeale of it was prohibited, and the uſe of it forbidden; is not this a palpable contradi<g ref="char:EOLhyphen"/>ction? For what was the ſeale of faith that God com<g ref="char:EOLhyphen"/>manded to <hi>Abraham?</hi> Was it not Circumciſion? <hi>Gen.</hi> 17.10. <hi>Rom.</hi> 10.11. If ſo, then when Circum<g ref="char:EOLhyphen"/>ciſion
+<pb n="35" facs="tcp:56842:21"/>was repealed, that Law which commanded no<g ref="char:EOLhyphen"/>thing elſe, muſt needs be repealed; and if the Law be in force, it muſt require ſome other thing as well as Circumciſion, and ſo be but in part repealed; if Circumciſion be repealed. You might as well have ſaid, that <hi>James</hi> Duke <hi>Hamilton</hi> was a live, after <hi>James</hi> Earl of <hi>Cambridge</hi> was beheaded, as ſay that that Law given to <hi>Abraham, Gen.</hi> 17.10. is in force, and yet ſay Circumciſion was taken away. Who but thoſe are willfully ignorant, doth not ſee this empty kind of arguing?</p>
+               <p>You proceed to another Argument, and tell me, that</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THey which had a right to the Ordinance that was pro<g ref="char:EOLhyphen"/>fitable every way, have ſtill a right to baptiſm:</hi>
+               </p>
+               <p>
+                  <hi>But the Children of Gods people have a right to that Ordinance that was profitable every way.</hi> Ergo.</p>
+               <p>
+                  <hi>The Children of Gods people have a right to baptiſm.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>THis Argument among the reſt we met with at your houſe; and I did then, and ſo I doe now deny the major; for if you look the text upon which it is grounded, <hi>Rom,</hi> 3.1, 2. you will find that this Ordinance you ſpeak of, was Circumciſion; ſo that then the major Propoſition in plain Engliſh is this, <hi>They that had had a right to Circumciſion, have a right to baptiſm;</hi> if this be a good Argument, why doe you plead for the infants of believers ſo much? May you not as well plead for the unbelieving <hi>Jewes,</hi> and their infants by the ſame reaſon, thus, <hi>They that had a right to circumciſion, have a right to baptiſm; but the
+<pb n="36" facs="tcp:56842:22"/>Jewes and their infants had a right to Circumciſion, there<g ref="char:EOLhyphen"/>fore they have a right to baptiſm now.</hi> If you ſhall ſay, ſo they have, if they convert to believe in Chriſt, I ſay then you have anſwered your ſelfe; and then it followeth not that their right to Circumciſion did give them a right to baptiſm; but their believing in Chriſt, for if it did, your muſt baptize a <hi>Jew</hi> though he did never believe.</p>
+               <p>You now come to ſcare me with great words, ſince you cannot doe it by Arguments; and this you in<g ref="char:EOLhyphen"/>deavour to doe, by telling me of fearfull and baſe Abſurdities that will follow upon what I have ſaid in denying infants baptiſm.</p>
+               <p>The firſt Aburdity (you ſay) is,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat if baptiſm be denied to the infants of believers, then the Children of the Devills ſervants under the Law, had better means of grace confer'd upon them, then the deareſt Children of the beſt ſervants of God have now under the Goſpell, thought the Goſpel be a better Covenant, establiſhed upon better promiſes,</hi> Heb. 7.22. Heb. 8.6, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer to this, firſt by denying the Conſe<g ref="char:EOLhyphen"/>quence; for it doth not follow they had better priviledg<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s then, then we have now, if we deny them baptiſm: But the contrary is true, we are, and ſo are our Children, freed from thoſe rudiments they were in bondage to, <hi>Gal.</hi> 4.3, 4. and <hi>Verſ.</hi> 5. 'tis ſaid, <hi>Chriſt came to redeem us from the Law.</hi> And in <hi>Acts</hi> 15.10. (your Text that you did alledge for infants Diſciple<g ref="char:EOLhyphen"/>ſhip) Circumciſion is there call'd a yoke that nei<g ref="char:EOLhyphen"/>ther they nor their fathers were able to bear; and
+<pb n="37" facs="tcp:56842:22"/>yet you preſume to call this a priviledge, which the Scripture calls a bondage, and a yoke. But if you ſhall ſay, that in <hi>Rom.</hi> 3.1, 2. the Apoſtle ſai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, they had <hi>advantage by it.</hi> I anſwer, that proves not but that it was a yoke; for a ſervant hath an advantage by a Prentiſhip, doth it follow therefore that an Ap<g ref="char:EOLhyphen"/>prentiſhip is not a ſtate of bondage? Now if God will freely beſtow thoſe things upon our infants without either Circumciſion or baptiſm, this is ſo far from Leſſe grace, that it is more grace then was beſtowed upon infants under the Law. And I chal<g ref="char:EOLhyphen"/>lenge you and all the world to ſhew me one Text in all the Bible where God doth either threaten parents or Children with the loſſe of any favour, either ſpi<g ref="char:EOLhyphen"/>rituall or temporall, for not baptizing their infants. If ſo, then your talking of denying them favour, by denying them baptiſm, is but a figment of you own braine.</p>
+               <p>And whereas you talk of the Children of the De<g ref="char:EOLhyphen"/>vils ſervants, that <hi>they had more priviledge then we, be<g ref="char:EOLhyphen"/>cauſe they were Circumciſed.</hi>
+               </p>
+               <p>I anſwer, firſt, the Text that you bring to prove it, <hi>Ezek.</hi> 16.20. ſaith not ſo. 2 It ſaith they did offer their Children in the fire; but yet remember, that this Chapter treats of the whole Nation of <hi>Iſrael,</hi> which you ſpake ſo much in favour of but even now, though you now call them the Children of the De<g ref="char:EOLhyphen"/>vil; but be it ſo, you have heard that their priviledge you plead for, was a bondage that God hath freed our infants from, and as long as you confeſſe they are freed form Circumciſion, and you cannot prove any other thing is injoyned to infants, what's become of your great Abſurdity?</p>
+               <pb n="38" facs="tcp:56842:23"/>
+               <p>Your ſecond Abſurdity is like the firſt, for (you ſay) that</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>DEnying infants baptiſm, ſhewes God is leſſe carefull, and his love is leſſe, and his faithfullneſſe is leſſened towards infants now, over it was of old.</hi> And this you would prove from <hi>Jer.</hi> 30.20. &amp; <hi>Mic.</hi> 7. <hi>laſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>IN the firſt of theſe Scriptures it is ſaid, that the <hi>Children of Iſrael ſhall be as afore time;</hi> and you ſay the Children of his people in the Goſpel ſhall be as the Children of his ſervants afore time; which is al<g ref="char:EOLhyphen"/>together falſe, for it is a Propheſie of their return from all Nations, to become a Nation again as before time, as any body may ſee, that doth not wink, at <hi>Jer.</hi> 30.18. And as for this Text, if by making infants under the Goſpel, as the <hi>Jewes</hi> were under the Law, if that be your notion upon the Text, and the word afore time, then we muſt circumciſe them, or elſe they cannot be as afore time: Doe you not pervert Scripture to make us <hi>Judaize?</hi> And to that Text, <hi>Mic.</hi> 7. <hi>laſt.</hi> where God ſaith, <hi>He will perform his truth to Jacob,</hi> &amp;c. I demand firſt, whether ever God ſwore to <hi>Jacob,</hi> or the fore fathers, or ever made any promiſe to them, that their infants under the Goſpel ſhould be baptized; if he did, ſhow us where; if he did not, then you doe but ſlander God, inſtead of bringing the leaſt abſurdity upon me, in ſaying, <hi>that he is un<g ref="char:EOLhyphen"/>faithfull,</hi> &amp;c. if infants are not baptized. And you tell us that Chriſt, <hi>Luke</hi> 1.71, 72. <hi>Came into the world for this end;</hi> it's true, he came to fulfill what God had promiſed before time, but how doth this bear
+<pb n="39" facs="tcp:56842:23"/>hard either upon his love or faithfullneſſe, <hi>viz.</hi> Not to baptize infants, unleſſe, as I have ſaid, he had be<g ref="char:EOLhyphen"/>fore promiſed they ſhould be baptized?</p>
+               <p>Your third Abſurdity, is that</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>DEnying infants baptiſm, doth diſhonour Gods wiſe<g ref="char:EOLhyphen"/>dome; becauſe we look upon it as folly</hi> (ſay you) <hi>to adminiſter an Ordinance to infants; but the wiſe God did adminiſter an Ordinance upon the infants that did not underſtand it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>TO this I anſwer, That our denying infants bap<g ref="char:EOLhyphen"/>tiſm doth rather diſhonour your wiſedom, and the wiſedome of this world, then the wiſedome of God, becauſe God never required it at your hands.</p>
+               <p>And whereas you ſay, <hi>God did adminiſter an Or<g ref="char:EOLhyphen"/>dinance to ignorant infants,</hi> &amp;c. I demand if this be not horrible preſumption for you to adminiſter an Or<g ref="char:EOLhyphen"/>dinance upon infants without a Command, becauſe the moſt high God cauſed an Ordinance once to be adminiſtred by a Command? And whether now for any one to oppoſe this practice of yours, be not much rather a flying in the face of your wiſedome, then Gods? It's no marvell then that you ſay, <hi>Here is enough to kindle your ſpirit againſt my opinion for ever,</hi> becauſe indeed denying infants baptiſm, ſets as it were a fire the foundation of your Craft, by which you beguile the ſimple: And you know this put a fire into the breaſt of the men of <hi>Epheſus,</hi> againſt the Apoſtles Doctrine, when they underſtood that the gaine they got by their Will-worſhip, was like to be ſet at naught.</p>
+               <p>Your fourth and laſt Abſurdity that you ſay fol<g ref="char:EOLhyphen"/>lowes
+<pb n="40" facs="tcp:56842:24"/>upon denying infants baptiſm, is, that</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>IT makes believing parents and their Children, worſe then Heathen and their Children, in whom the Prince of the power of the aire ruled,</hi> &amp;c.</p>
+               <p>
+                  <hi>Yet ſuch</hi> (ſay you) <hi>coming into the acknowledgement of the true God, had not onely themſelves, but their infants taken into Covenant, and had the token thereof, which</hi> (you ſay) <hi>I deny to Children.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>THis is all one with your firſt Abſurdity, &amp; there<g ref="char:EOLhyphen"/>fore the ſame Anſwer will ſerve it; for was not this your firſt Abſurdity that you ſaid followed de<g ref="char:EOLhyphen"/>nying infants baptiſm, <hi>viz. That the Children of the Devills ſervants under the Law, had better means of grace confer'd upon them, then the Children of the beſt ſervants of God have.</hi> And what doe you ſay more now? For what difference is there between believers, and their infants, and Gods beſt ſervants, and their infants? And what difference is there between the Children of the Devills ſervants, and the Children of thoſe in whom the Prince of the aire ruleth? <hi>&amp;c.</hi> And what difference is there between circumciſing the Chil<g ref="char:EOLhyphen"/>dren of the Devills ſervants under the Law, and cir<g ref="char:EOLhyphen"/>cumciſing the Children of thoſe in whom the Prince of the aire ruled, <hi>&amp;c.</hi>
+               </p>
+               <p>But yet a word to this, though it be one with the former: Firſt, how doth my opinion make them, <hi>Viz.</hi> believing Parents, and their infants, worſe then Heathens, and their infants under the Law? ſince by your own confeſſion neither the Heathen, nor his infant was to be Circumciſed, till he, <hi>Viz.</hi> the Hea<g ref="char:EOLhyphen"/>then, had acknowledged the true God, ſo that then
+<pb n="41" facs="tcp:56842:24"/>he feaſed to be a Heathen. In like manner therefore as the Converts to the <hi>Jewes</hi> Religion, were they and their children to partake of all the priviledges of the Law, upon obedience of all the Commands of God in the Law: ſo all Converts to the Chriſtian Reli<g ref="char:EOLhyphen"/>gion, and their Children, upon obedience to all the Commands in the Goſpel, ſhall be made partakers of the priviledges of the Goſpel: But now if God hath not Commanded believers infants to be baptized, nor promiſed any priviledge to their baptiſm in in<g ref="char:EOLhyphen"/>fany, nor threatned any detriment to thoſe infants that wanted it, as he did to infants that wanted Cir<g ref="char:EOLhyphen"/>cumciſion, he told their Parents that <hi>that ſoule ſhould be cut off from the people.</hi> I ſay, if there be neither Pre<g ref="char:EOLhyphen"/>cept for baptiſm of infants, nor Promiſe of Priviledg to their infants baptiſm, nor detriment threatned to the want of it, then you rather quarrel and find fault with God (becauſe he did not make a Law for be<g ref="char:EOLhyphen"/>lievers infants to be baptized) then with me; and becauſe he did not promiſe them ſome favour that were baptized in their infancy, and impoſe ſome pe<g ref="char:EOLhyphen"/>nalty upon thoſe infants that were not ſo baptized. Now indeed if you had ſhewed us any ſuch thing, then you had made good your charge; but till you doe ſo, you (as I have ſaid) rather quarrell with God for not making ſuch a Law, then with me for not keeping of it. And whereas you ſay, <hi>I deny in<g ref="char:EOLhyphen"/>fants the ſeale;</hi> You are firſt to ſhew where baptiſm is called a ſeale, or elſe to deny them baptiſm, is not to deny them a ſeale. 2 You muſt ſhew us, if baptiſm be a ſeale, whether God did any where command us to ſet it upon infants: And 3 in what place of the Child it muſt be ſet; for we know in the Law it was
+<pb n="42" facs="tcp:56842:25"/>ſet upon the fore-ſkin of their privy members. This you muſt doe before you can faſten any Abſurdity upon me, in denying a ſeale to infants.</p>
+               <p>You come now to remember me of ſomewhat that I ſaid at your houſe, <hi>Viz.</hi> You did run in a round when you ſaid Children had a right to the Ordi<g ref="char:EOLhyphen"/>nance that was profitable every way, and therefore ought to be baptized; and you tell me, that</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>MY ſaying you did run in a round, did contradict my ſelfe, and give away my cauſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>TO this I anſwer, that this is ſooner ſaid, then pro<g ref="char:EOLhyphen"/>ved, <hi>Viz.</hi> That I gave away the Cauſe; but however, I perceive that you would be willing to be counted a ridiculous Diſputant, and ſo ridiculous as circular diſputing is accounted in Schools, ſo that I would but give away my cauſe, which is not mine, but the Lord Chriſts. This appears plainly, for you ſay that I told you, you run in a circle; which you doe not in the leaſt indeavour to vindicate your ſelf from, but ſay by this I gave away my cauſe. But if you had urged all that I had faid at that time, it would not ſo appear; for when you argued, That if infants had a right to the Ordinance that was pro<g ref="char:EOLhyphen"/>fitable every way, then they had a right to baptiſm: But they had a right to that Ordinance that was pro<g ref="char:EOLhyphen"/>fitable every way. <hi>Ergo.</hi> I did then anſwer, by di<g ref="char:EOLhyphen"/>ſtinguiſhing of the tearms of the major Propoſition, <hi>Viz.</hi> What you meant by the Ordinance that was profitable every way: (I then ſaid) if you meant Circumciſion, then you run in a circle, becauſe that was the thing denied in the former Sillogiſm, <hi>Viz.</hi>
+                  <pb n="43" facs="tcp:56842:25"/>That they that had a right to Circumciſion, had a right to baptiſm, which you endeavoured to prove, by ſaying, <hi>They that had a right to the Ordinance profi<g ref="char:EOLhyphen"/>table every way, had a right to baptiſm.</hi> If by this you meant Circumciſion, then you did but run round, and no way prove the thing denied, but in effect ſaid it over again. I further ſaid, That if by the Ordi<g ref="char:EOLhyphen"/>nance that was profitable every way, you meant baptiſm, then I denied the Sillogiſm; for then it muſt have run thus, <hi>They that have a right to baptiſm, have a right to baptiſm:</hi> Indeed I ſhould have had ſo much reſpect to your gray haires, that I ſhould not have mentioned this your weakneſſe, had you not in your Paper both mentioned it, and gloried in it, as though thereby you had made me give away my Cauſe. And that I did at your houſe detect your falſe Logick after this manner, as I have laid it down. I ſhall appeale to thoſe Gentlemen that are well lear<g ref="char:EOLhyphen"/>ned in the Rules of diſcourſes, that were then at your houſe, and to whom I did then appeale in the ſame caſe.</p>
+               <p>You proceed to more Reaſons for infants-baptiſm, if I may ſo call them without giving away my canſe again. The firſt is,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>BEcauſe they are in Covenant,</hi> which you would prove by <hi>Deut.</hi> 29.10. <hi>to</hi> 15. <hi>Deut.</hi> 30.11, 12, 13. <hi>Rom.</hi> 1.7.10.</p>
+               <p>From hence you argue, that <hi>If they are in Covenant, they may be baptized.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Deny the Conſequence, for by this rule <hi>Moſes</hi> might have baptized as well as circumciſed, if a
+<pb n="44" facs="tcp:56842:26"/>bare being in the Covenant were a reaſon why they ſhould baptize; but you muſt remember; that it is the Command of Chriſt that we look at; and if he had not commanded believers to be baptized, their being believers would not have juſtified their bap<g ref="char:EOLhyphen"/>tiſm: So if it were granted that infants were in the Covenant, what reaſon is this why they ſhould be baptized, if God hath not commanded it? Doe you not here open a door for will-worſhip, and other Popiſh fooleries? For may not they ſay they doe them becauſe they are in Covenant? Further, doe you not here ſin becauſe grace abounds? For is God ſo good as to place our infants in Covenant with himſelfe, muſt we therefore goe take the holy name of God in vaine, and ſprinkle water upon their faces for a ſeale, as though we doubted whether God would keep his Covenant, unleſſe we ſealed it with a ſeale of our owne making? But to the Text. Firſt, if you look <hi>Deut.</hi> 1.39. you will find the Covenant here is not the ſame that was made with them when they came out of <hi>Aegypt;</hi> for he ſaith, <hi>It is a Cove<g ref="char:EOLhyphen"/>nant</hi> BESIDES <hi>the Covenant he made then.</hi> 2 Compare but <hi>Verſ.</hi> 10. to <hi>Verſ.</hi> 12. and you will find that they ſtood that day before the Lord, that they MIGHT enter into Covenant, <hi>&amp;c.</hi> Now then this could not be the Covenant made with <hi>Abraham,</hi> becauſe that was confirmed, and <hi>Iſrael</hi> had it ſealed to them long before; neither was it the Covenant made when they came out of <hi>Aegypt,</hi> if ſo, then it could not be the Covenant that your ſeale you talk of did be<g ref="char:EOLhyphen"/>long unto. 2 It could not be the Covenant of grace by Jeſus Chriſt, unleſſe you ſay there was two Co<g ref="char:EOLhyphen"/>venants of grace, <hi>Viz.</hi> one made with them before
+<pb n="45" facs="tcp:56842:26"/>they went into <hi>Aegypt,</hi> and another after their co<g ref="char:EOLhyphen"/>ming out of <hi>Aegypt:</hi> Now if this was not a Cove<g ref="char:EOLhyphen"/>nant of grace by Chriſt, ſpoken of <hi>Deut.</hi> 29. what doth it availe to the matter in hand? unleſſe you ſay they that are in any Covenant have a right to baptiſm. And if you ſay it was a Covenant of grace by Jeſus Chriſt, that is here mentioned, then pray conſider what followes, that the Covenant of grace by Jeſus Chriſt was made with them, that (as the 4 verſe ſaith) <hi>The Lord had not given a heart to per<g ref="char:EOLhyphen"/>ceive, nor eyes to ſee, nor ears to hear unto that day.</hi> So that whereas you have been telling of us a of Cove<g ref="char:EOLhyphen"/>nant with believers and their ſeed all this while; you now come to tell us of a Covenant made with unbelievers, and their ſeed, for ſo were theſe at the time of the making of it: So that if your Logick be good, <hi>Viz. Believers and their infants are in Covenant, therefore they and their infants muſt be baptized.</hi> And the Text you bring to prove it, ſaith the ſame of un<g ref="char:EOLhyphen"/>believers, then by your owne Text, infidells and their infants may be baptized: But the Text you bring ſaith the ſame of unbelievers. <hi>Ergo.</hi> That the Text ſaith, this Covenant was made with unbelie<g ref="char:EOLhyphen"/>vers, compare <hi>Deut.</hi> 29.4. with <hi>Rom.</hi> 11.8. where ſpeaking of the <hi>Jewes</hi> not believing in Chriſt, he ſaith, <hi>God (as it is written)</hi> alluding to this very Text, <hi>Deut.</hi> 29.4.) <hi>had given them the ſpirit of ſlumber, eyes that they ſhould not ſee, and eares that they ſhould not hear unto this day:</hi> And yet theſe are the believers whom you ſay are in Covenant, and therefore their infants muſt be baptized. But I confeſſe I doe not wonder at this, becauſe moſt of them whoſe infants you bap<g ref="char:EOLhyphen"/>tize, are ſuch believers, if I may ſo call them, as have
+<pb n="46" facs="tcp:56842:27"/>not a heart to perceive, nor eyes to ſee, to this very day, elſe they would not receive for doctrine the traditions of men, and leave the plain way of Chriſt. You add, though to as little purpoſe as before, <hi>Deut.</hi> 30.11, 12. &amp; <hi>Rom.</hi> 10.6, 7, 8. where (I confeſſe) the Apoſtle alluding to the fore-cited place of <hi>Deu<g ref="char:EOLhyphen"/>teronomy,</hi> ſaith, that <hi>the word is nigh thee, even in thy mouth, and heart, even the word of faith</hi> which he prea<g ref="char:EOLhyphen"/>ched; and therefore the righteouſneſſe of faith he tells us is this, <hi>Verſ.</hi> 9, 10. <hi>That if thou ſhalt confeſſe with thy mouth the Lord Jeſus, and ſhalt believe in thy heart that God hath raiſed him from the dead, thou ſhalt be ſa<g ref="char:EOLhyphen"/>ved. For with the heart man believeth unto righteouſneſs, and with the mouth confeſſion is made unto ſalvation.</hi> You bid me compare this Text with <hi>Deut.</hi> 29. which I much wonder at, ſince I doe not know any two Texts in all the Bible that have more diſparity; for in the one place it's ſaid, <hi>They had not a heart to be<g ref="char:EOLhyphen"/>lieve;</hi> and in the other it is ſaid, <hi>With the heart man believeth.</hi> Again, as this Text hath no affinity with the former, ſo, it hath no affinity to the matter in hand; for to what purpoſe doe you cite a Text that ſpeaks of believers who profeſſe Chriſt with their mouths, and believe him in their hearts, to juſtifie the baptiſm of infants, that never opened their mouths for Chriſt? Truly Sir, were it not that I am relieved with this ſaying, <hi>Opere in longo fas eſt obre<g ref="char:EOLhyphen"/>pere ſomnum,</hi> I ſhould deſpair of having any thoughts of charity towards a man that profeſſeth himſelf (as you doe) both a Chriſtian, and a Scholar, and yet reaſon at this rate.</p>
+               <p>You add a ſecond Argument, and ſay, that</p>
+            </sp>
+            <pb n="47" facs="tcp:56842:27"/>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>BEcauſe they are in Covenant, the initiating token of the Covenant muſt needs be theirs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer, That here you have not concluded the tearms of the Queſtion, therefore I may deny the whole Argument.</p>
+               <p n="2">2 But further, If by the initiating token of the Covenant you mean baptiſm, let me ſee then how you can call this a ſecond Argument, except you tell the firſt twice over? For was not this the Argument that went before? <hi>Viz. They that are in the Covenant have a right to baptiſm;</hi> and is not the ſecond the ſame word for word, if by the token of the Covenant you mean baptiſm; therefore the anſwer to the firſt is alſo an anſwer to that you call a ſecond. And whereas you ſay that the Text, <hi>Gen.</hi> 17. tells us that every Man-child had the token of the Covenant, becauſe they were in the Covenant; why I pray had not the women-children the token of the Covenant? were not they in the Covenant? Can you deny it? and yet you ſee they were not circumciſed: And were not the males in the Covenant (as I have ſaid once and again) as ſoon as they were born, why were they denied the the token of it till eight dayes old? they might have died, as doubtleſſe many of them did in this intervaile of time between their birth and the eighth day: Therefore you ſee that infants be<g ref="char:EOLhyphen"/>ing in the Covenant, could be no Argument to prove their Circumciſion, till the time God appointed, though their lives had laine upon it. In the like manner all your talking of infants being in the Co<g ref="char:EOLhyphen"/>venant, cannot lawfully juſtifie their baptiſm, till
+<pb n="48" facs="tcp:56842:28"/>the time comes that God commands it: And this kept female infants from Circumciſion, <hi>Viz.</hi> becauſe God had not commanded it. Although they were in the Covenant, yet you ſee they were denied the token of the Covenant.</p>
+               <p>You urge another Text, which is <hi>Ezek.</hi> 37.25. where God promiſes by his Prophet, that <hi>The Tribes of Iſrael ſhall be joyned together, and ſhall dwell in their owne Land they and their Children, and their Childrens Children for ever, under the Conduct of Chriſt their Princee in the latter dayes.</hi> And you ſay this proves infants ſhould be baptized. Did ever any body infer thus from a Text? <hi>Iſrael</hi> and their Children ſhall come to dwell in their own land in the latter dayes, and Chriſt ſhall be their Prince. <hi>Ergo.</hi> The infants of believers muſt be baptized. This is the ſubſtance of the Text from whence you thus infer, as any body may ſee that doth but read the Chapter. But now, ſuppoſe this, that this were applicable to believing <hi>Gentiles,</hi> doth it not follow, that if the ſeed of the righteous, and their Children, and their Childrens Children for ever, ſhould be baptized, that then we may baptize all the world, ſince they are all, and will be for ever, the ſeed of <hi>Noah,</hi> who was a faithfull man?</p>
+               <p>You tell us in the third place, that</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>INfants are included in the Command of baptiſm, be<g ref="char:EOLhyphen"/>cauſe Chriſt ſaith,</hi> Luke 9.48. <hi>They that receive a little Child, receive Chriſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>MIght you not better have ſaid, that this little Child was Chriſt, then have concluded that
+<pb n="49" facs="tcp:56842:28"/>the little Child was included in the Command of baptiſm? May we not as well ſay, That the Con<g ref="char:EOLhyphen"/>verts were Commanded to baptize the Apoſtles, ra<g ref="char:EOLhyphen"/>ther then the Apoſtles were commanded to baptize them, becauſe Chriſt ſaith to his Apoſtles, <hi>Mat.</hi> 10.40. <hi>He that receiveth you, receiveth me.</hi> May not a man as well upon the other hand ſay, That he that refuſed the Apoſtles, refuſed to baptize the Apoſtles, as you may ſay the receiving, or non receiving of infants, is a receiving of them to, or a rejecting them from baptiſm.</p>
+               <p>Again, <hi>He that receiveth an Angell of God,</hi> is ſaid <hi>to receive God;</hi> may not a man as well plead from hence, Therefore Angels may be baptized, as you may, in ſaying, <hi>He that receiveth a little Child, receiveth Chriſt? Therefore a little Child muſt be baptized.</hi> And whereas you ſay, <hi>That a refuſing to baptize infants, is a refuſing to receive Chriſt.</hi> How ſtrangely do you contradict your ſelfe? Did not you ſay in the former part of your pa<g ref="char:EOLhyphen"/>per, <hi>That many that we baptized, were not inwardly and effectually called till afterwards?</hi> Now doth not this plainly prove, That we that refuſe to baptize Chil<g ref="char:EOLhyphen"/>dren, doe yet notwithſtanding receive Chriſt; for what is it to be inwardly and effectually called, but to receive Chriſt?</p>
+               <p>In the fourth place, you ſay, that</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THey are included in baptiſm, for whom Chriſt ap<g ref="char:EOLhyphen"/>pears ſo much, as we find,</hi> Mark 10.13. Luke 18.15. <hi>which</hi> (you ſay) <hi>Luke ſaith were infants,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer, You take great paines to prove that which nones denies, <hi>That theſe that Chriſt tooke
+<pb n="50" facs="tcp:56842:29"/>in his armes, were infants:</hi> But how doe you prove that which is denied, <hi>That theſe infants were baptized by Chriſt.</hi> You ſay, <hi>That Chriſt reproved his Diſciples for not ſuffering the infants to come to him.</hi> Which ſhewes plainly, that baptizing them was no part of their buſineſſe that brought them: Firſt, becauſe if it were a Command of Chriſt to baptize infants, the Diſciples that were his Meſſengers, were then ig<g ref="char:EOLhyphen"/>norant of a great part of their Meſſage, that they were to deliver in their Miniſtry. Or elſe 2 If they did know that it was their work, and Chriſts Com<g ref="char:EOLhyphen"/>mand to baptize infants, they were deſperately wic<g ref="char:EOLhyphen"/>ked in keeping any from it: This was not onely to break a Command, but to teach men ſo, and to be guilty of that abominable evill the <hi>Phariſees</hi> were guilty of, <hi>Viz. Of not entring into Heaven themſelves, nor ſuffering others.</hi> This will follow, if to keep in<g ref="char:EOLhyphen"/>fants from baptiſm, be to keep them from Chriſt, as you would make it.</p>
+               <p>But that they were not baptized when they came to Chriſt, appears becauſe the Text ſaith, <hi>John</hi> 4.2. that <hi>Jeſus himſelfe baptized NOT, but his Diſciples.</hi>
+               </p>
+               <p>And whereas you ſay,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>HAnds were laid upon them, by which greater things then baptiſm was done.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer, By the ſame rule you may give the bread and wine in the Sacrament, to infants, becauſe greater things were done by laying on of hands, then eating bread, and drinking wine: And why doe you not by this rule preach to Children in their Cradles, becauſe greater wonders were wrought by
+<pb n="51" facs="tcp:56842:29"/>laying on of hands, then ever were done by Preach<g ref="char:EOLhyphen"/>ing. Who ſees not but this Argument is as ſtrong for Preaching to infants, and giving the Lords Sup<g ref="char:EOLhyphen"/>per to infants, as it is for baptizing infants? And yet though you allow them baptiſm, you deny them both the other Ordinances.</p>
+               <p>You ſay, <hi>Chriſt bleſſed them, as well as layd hands on them, which</hi> (ſay you) <hi>is as much. if not more th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n baptiſm.</hi> And is not his bleſſing as much, if not more then your giving the Sacrament of the Supper to them? Why then doe you deny them of it?</p>
+               <p>You ſay,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat was a good reaſon for Chriſt to bleſſe them,</hi> viz. <hi>Becauſe the Kingdome of Heaven belonged to them, and therefore it must needs be a good reaſon for us to bap<g ref="char:EOLhyphen"/>tize them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer, firſt, why this was not a good reaſon for CHRIST to baptize them, &amp; yet the Scripture ſaith, <hi>He baptized none.</hi>
+               </p>
+               <p n="2">2 Doth not infants right to the Kingdome of hea<g ref="char:EOLhyphen"/>ven intitle them to all other Ordinances, as well as baptiſm, ſince under the Goſpel whoever were found to be members of a true Church by baptiſm, had alſo fellowſhip of all other Church-priviledges, except they had (by ſome ſcandalous evills) deprived themſelves thereof; ſo that infants right to the Kingdome of Heaven, ſerves nothing for your pre<g ref="char:EOLhyphen"/>ſent purpoſe.</p>
+               <p>Your fifth Reaſon is,</p>
+            </sp>
+            <pb n="52" facs="tcp:56842:30"/>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>INfants are branches of the true Olive,</hi> Rom. 11.17. <hi>Therefore they are included in the Command of bap<g ref="char:EOLhyphen"/>tiſm.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer, firſt by denying the antecedent; for the infants of believers are not branches of the Olive in the Text, but onely ſuch as did actually believe, and there is not the leaſt mention made of their in<g ref="char:EOLhyphen"/>fants in the whole Chapter; for the 20 verſe ſaith, <hi>That for want of faith the Jewes were broke off, and by faith the Gentiles did ſtand;</hi> which faith is not to be found in your infants you plead for.</p>
+               <p n="2">2 To be branches by generation (if that were the ſenſe of the Text) could not give them a right to baptiſm, becauſe the <hi>Jewes</hi> were naturall branch<g ref="char:EOLhyphen"/>es, and yet that could not give them a right to bap<g ref="char:EOLhyphen"/>tiſm without faith.</p>
+               <p>Your ſixth Reaſon is,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>BEcauſe infants of believers are</hi> Abrahams <hi>ſeed, and ſo conſequently members of Chriſt,</hi> Gal. 3.16. <hi>And baptiſm</hi> (you ſay) <hi>is an Ordinance of our incorpora<g ref="char:EOLhyphen"/>tion into Chriſt,</hi> 1 Cor. 12.13. <hi>Therefore</hi> (you ſay) <hi>they that are members of Chriſt ſhould not be denied that Ordinance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Cannot but wonder at your preſumtion; doth the word of God any where ſay that the carnall ſeed of believers are members of Chriſt? Doth it not ſay the contrary, that even <hi>Abrahams</hi> owne ſeed were not the Children of God, as they were his carnall ſeed, <hi>Rom.</hi> 9.7. Neither becauſe they are the ſeed
+<pb n="53" facs="tcp:56842:30"/>
+                  <hi>Abraham,</hi> are they Children, which is expounded, <hi>Verſ.</hi> 8. <hi>That is</hi> (ſaith the Apoſtle) <hi>they which are the Children of the fleſh, they are not the Children of God.</hi>
+               </p>
+               <p n="2">2 Again, How dare you ſay that the naturall ſeed of believers in their infancy, are the ſeed of <hi>Abra<g ref="char:EOLhyphen"/>ham?</hi> ſince that <hi>Abrahams</hi> own ſeed were under the Goſpel no otherwiſe reckoned for his ſeed, then by believing, <hi>Gal.</hi> 3.7. <hi>Know yee therefore, that they which are of faith, the ſame are the Children of Abraham,</hi> v. 9. <hi>They which are of ſaith, are bleſſed with faithfull Abra<g ref="char:EOLhyphen"/>ham:</hi> And what ever <hi>Abrahams</hi> ſeed, and the Proſe<g ref="char:EOLhyphen"/>lites ſeed were accounted under the Law, it makes not at all to your purpoſe, unleſſe you prove God doth ſo account of them under the Goſpel: And therefore the Apoſtle ſaith not of ſeeds, as to many; but <hi>to thy ſeed,</hi> which is Chriſt. So that by this which you cited out of <hi>Gal.</hi> 3.16. it appears the Promiſes were not made to the naturall ſeed of believers, but unto Chriſt, or them that were Members of his my<g ref="char:EOLhyphen"/>ſticall body by believing. And the Apoſtle tels them, <hi>That ſo many of them as had been baptized into Chriſt, had put on Chriſt,</hi> which was by making profeſſion of Chriſt, which your infants doe not; and therefore the ſame Apoſtle concludeth, <hi>That if they were Chriſts, then they were Abrahams ſeed:</hi> Not if they were be<g ref="char:EOLhyphen"/>lievers naturall Children, that they upon any ſuch conſideration ſhould be Heires of the Promiſe.</p>
+               <p>Your ſeventh reaſon is,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat infants may be baptized, becauſe they are holy:</hi> Which you indeavour to prove from 1 <hi>Cor.</hi> 7.14.</p>
+            </sp>
+            <pb n="54" facs="tcp:56842:31"/>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Doe deny that the holineſſe of theſe infants gave a right to baptiſm; for by the ſame rule the be<g ref="char:EOLhyphen"/>lievers wife muſt be baptized, though ſhe was an unbeliever; for the ſame Text ſaith, <hi>That the be<g ref="char:EOLhyphen"/>lievers unbelieving wife was ſanctified:</hi> And may I not as well ſay, That all that are ſanctified in any ſenſe may be baptized; as you may ſay, Becauſe infants in ſome ſenſe are holy, therefore they may be bap<g ref="char:EOLhyphen"/>tized.</p>
+               <p>You further urge <hi>Gal.</hi> 2.15. which I believe you did miſtake your ſelfe in, as any body may ſee that ſhall but compare the Text with the matter in hand. To as little purpoſe you urge <hi>Dan.</hi> 8.24. where the Text ſaith, <hi>The King of fierce countenance ſhould de<g ref="char:EOLhyphen"/>ſtroy the holy people:</hi> Therefore the infants were ho<g ref="char:EOLhyphen"/>ly. May not a man as well ſay, from <hi>Dan.</hi> 12.7. where it's ſaid, <hi>He ſhall ſcatter the power of the holy people;</hi> that therefore the infants had power? The like anſwer ſerves to <hi>Dan.</hi> 11.8.</p>
+               <p n="8">8 You ſay,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THey are included in baptiſm, to whom all the promiſes of baptiſm belong.</hi>
+               </p>
+               <p>
+                  <hi>But the promiſes of baptiſm belong to infants,</hi> Acts 7.38, 39.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Shall ſay nothing to this, but leave you to read over <hi>Acts</hi> 7.38, 39. and conſider if the leaſt pro<g ref="char:EOLhyphen"/>miſe be made relating to baptiſm, in any of thoſe verſes. But I am apt to think you meant <hi>Acts</hi> 2.38, 39. which is as little to your purpoſe, as the other; where the Apoſtle bids the <hi>Jewes, Repent, and be bap<g ref="char:EOLhyphen"/>tized;</hi>
+                  <pb n="55" facs="tcp:56842:31"/>where note, That if their being <hi>Abrahams</hi> naturall ſeed would have given them a right to bap<g ref="char:EOLhyphen"/>tiſm, what need had they to have repented, in order to their baptiſm? He further ſaith, <hi>That the promiſe is to them, and their Children.</hi> To that I have for<g ref="char:EOLhyphen"/>merly ſaid, and proved, That in the Scripture Dialect many things may belong to a mans Chil<g ref="char:EOLhyphen"/>dren, that hath no reſpect to his infants, in the ſtate of their infancy; for Chriſt tells the ſame people, <hi>Mat.</hi> 23.27. <hi>That he would have gathered their Chil<g ref="char:EOLhyphen"/>dren together,</hi> &amp;c. Can any man think that Chriſt here means their infants in the Cradle. In like man<g ref="char:EOLhyphen"/>ner the Apoſtle concludes, <hi>That the promiſe was to them, and their Children,</hi> he plainly ſhewes, that he did not mean their infants, but that Gods promiſes ſhould be made good to their Children upon the ſame tearms that they were to them, which was up<g ref="char:EOLhyphen"/>on their Repentance, Faith, and Baptiſm; and there<g ref="char:EOLhyphen"/>fore he afterwards urgeth, <hi>That it was not onely to them and their Children, but to all that were after off, even as many as the Lord our God ſhould call.</hi>
+               </p>
+               <p>And now you conclude, and ſay,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THus much for the proof of infants baptiſm from Scripture precept.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ives's.</hi>
+               </speaker>
+               <p>WHich if all the Scriptures you have urged, have any one Precept for infants Baptiſm, I ſhall leave to judgement.</p>
+               <p>You now come in the laſt place to prove infants baptiſm from Scripture practice, and your firſt, is,</p>
+            </sp>
+            <pb n="56" facs="tcp:56842:32"/>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat they were all,</hi> viz. <hi>the infants of the Iſraelites baptized to</hi> Moſes, <hi>in the cloud, and in the ſea,</hi> 1 <hi>Cor.</hi> 10.2. <hi>Pſal.</hi> 77.17.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p n="1">1 WHat's this to prove infants were baptized to Chriſt, if (one ſhould grant) that in a ſenſe they might be ſaid to be baptized to <hi>Moſes?</hi>
+               </p>
+               <p n="2">2 How doth this ſaying, <hi>They were baptized to Moſes,</hi> prove that infants were baptized to <hi>Moſes?</hi> If you ſay, They were baptized to <hi>Moſes,</hi> becauſe they alſo came through the ſea with their fathers: Then I demand in</p>
+               <p>The laſt place, whether a man may not as well ſay, That their Cattle were baptized to <hi>Moſes,</hi> be<g ref="char:EOLhyphen"/>cauſe they alſo came through the ſea with <hi>Moſes?</hi> Let him that's leaſt among you judge if this Text proves that infants were baptized in water in the name of Jeſus, becauſe that infants came through the red ſea with <hi>Moſes.</hi>
+               </p>
+               <p>Your ſecond inſtance for the practice of infants baptiſm, is laid downe in a down right lame Argu<g ref="char:EOLhyphen"/>ment, thus.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THe Apoſtles practiſed what they were to preach: But they were to preach all that Chriſt commanded,</hi> Mat. <hi>ult. ult. But Chriſt commanded that they ſhould ſuffer lit<g ref="char:EOLhyphen"/>tle Children to come to him, and not to forbid them, that he might lay his hands on them, and bleſſe them: There<g ref="char:EOLhyphen"/>fore the Apostles practiced this in ſuffering little Children to come to the Ordinance, and not forbidding them to that of baptiſm.</hi>
+               </p>
+            </sp>
+            <pb n="57" facs="tcp:56842:32"/>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>TRuly I could wiſh that this Argument had been born a little ſooner, that ſo it might have been at <hi>Oxford</hi> or <hi>Cambridge</hi> the laſt Comencement, be<g ref="char:EOLhyphen"/>cauſe it is in a new mood and figure that was never heard of before in any of the Schooles; it may be it might have purchaſed for you the good degree of a Prevaricator againſt the next year. But however, I fear a worſe thing, that it is ſtill born, and hath no ſtrength in it.</p>
+               <p>For may you not as well ſay, That the Apoſtles in all ages were commanded to bring Aſſes to Chriſt, becauſe when he was upon the earth he did Com<g ref="char:EOLhyphen"/>mand them ſo to doe, becauſe he had need of one, for ſo ſayes the Text, <hi>Mat.</hi> 21.2, 3, 6. as ſay that becauſe Chriſt when he was in perſon upon the earth, did bid his Diſciples to let infants come to him, that therefore this was part of their Commiſſi<g ref="char:EOLhyphen"/>on when Chriſt left the earth.</p>
+               <p>But 2 May you not from hence as well command ſome of your Pariſh to goe and fetch you an Aſſe, and bring him to you, as you may from this Text in<g ref="char:EOLhyphen"/>joyne them to bring their Children to you for bap<g ref="char:EOLhyphen"/>tiſm, becauſe they were injoyned to come to Chriſt for a bleſſing. What Command is this to bring my Children to you, becauſe Chriſt commanded them to be brought to him, any more then it is for me to bring my Horſe or my Aſſe to you, becauſe Chriſt commanded one ſhould be brought to him? But if this be a good Argument to juſtifie infants baptiſm, I wonder that any Clergy man of your opinion will goe one foot.</p>
+               <p>But more hath been ſpoken to this elſewhere, and
+<pb n="58" facs="tcp:56842:33"/>fore I ſhall proceed to your third inſtance of the pra<g ref="char:EOLhyphen"/>ctice of infants baptiſm, and that is, ſay you,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>WHole Houſes, Cities, and Families were baptized.</hi> And for proof hereof you cite <hi>Acts</hi> 8.12. where the Text ſaith, <hi>That when they believed Phillips preaching the things concerning the kingdome of God, they were baptized both men and women.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>WHat man would urge this Text (but he that was minded to quit the field of this contro<g ref="char:EOLhyphen"/>verſie) to prove the Apoſtles baptized the <hi>Sama<g ref="char:EOLhyphen"/>ritans</hi> infants? You ſay the whole City of <hi>Samaria</hi> was baptized, therefore you would make us believe they baptized infants, when the Text ſaith no ſuch thing, but that <hi>They that</hi> RECEIVED THE WORD <hi>were baptized,</hi> and not the whole City, as you would have it. Again, you urge.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>THat the family of Cornelius and his near kindred were baptized,</hi> Acts 10.24, 44, 48. <hi>And the houſ<g ref="char:EOLhyphen"/>hold of Stephanus,</hi> 1 Cor. 1.16. <hi>The Jaylor, and all his,</hi> Acts 2.16.13. <hi>And Lydia and her houſhold,</hi> Acts 16.15.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>TO the firſt of theſe I anſwer, That the Scripture no where ſaith that <hi>Cornelius</hi> had any infants baptized, but that thoſe that <hi>Heard Peters</hi> word, and had received the Holy Ghoſt, and <hi>ſpake with tongues, and glorified God, Acts</hi> 10.46, 47, 48. were bapti<g ref="char:EOLhyphen"/>zed, which Text you urge for infants baptiſm. I ſhall appeale to all that ſhall ſeriouſly mind theſe words, whether there be any compariſon between the perſons baptized in that Text, and the infants that you baptize.</p>
+               <pb n="59" facs="tcp:56842:33"/>
+               <p>Next you urge the houſhold of <hi>Stephanus,</hi> that they were baptized, 1 <hi>Cor.</hi> 1.16. Hence you would infer infants were baptized. Now may not a man as well ſay, that becauſe the Apoſtle ſaith, 1 <hi>Cor.</hi> 16.15. that <hi>The houſe of Stephanus addicted themſelves to the Miniſtry of the Saints,</hi> that therefore infants in <hi>Ste<g ref="char:EOLhyphen"/>phanus</hi> houſe were addicted to miniſter to the Saints, as you may ſay, <hi>Stephanus</hi> his houſhold were bapti<g ref="char:EOLhyphen"/>zed, therefore infants in the houſe were baptized?</p>
+               <p>Your next is <hi>Acts</hi> 16.33. where 'tis ſaid, the Jay<g ref="char:EOLhyphen"/>lor and all his were baptized: Now may not a man as well ſay, that his infants in the Cradle believed the Apoſtles, and that the Apoſtles preached to in<g ref="char:EOLhyphen"/>fants in the Cradle, as you may imagine that infants were baptized, becauſe the Jaylor and all his were baptized? For the ſame Text that ſaith he and all his were baptized, doth alſo ſay, <hi>That the Apoſtles ſpake unto him the word of the Lord, &amp; to</hi> ALL <hi>that were in his houſe,</hi> verſ. 32. And <hi>Verſ.</hi> 34. it is ſaid, <hi>That he</hi> (<hi>Viz.</hi> the Jaylor) <hi>believed in God with</hi> All <hi>his houſe:</hi> And yet you preſume to call this, as the reſt, <hi>Scrip<g ref="char:EOLhyphen"/>ture practice for infant-baptiſm.</hi>
+               </p>
+               <p>Your other inſtance is in the 15 Verſe of the fore<g ref="char:EOLhyphen"/>cited Chapter, where we read that <hi>Lydia</hi> and her houſe were baptized, <hi>&amp;c.</hi> You cannot from hence prove that <hi>Lydia</hi> was a married woman; for when women have husbands as the head of their families, the houſhold is not uſually known by the womans name. 2 If ſhe had been married, how doe you prove ſhe had any Children?</p>
+               <p n="3">3 If ſhe had had Children, how doe you prove ſhe had any alive at this time; ſince it often times ſo falls out, that good people as well as bad may ſee
+<pb n="60" facs="tcp:56842:34"/>all their Children goe to the grave before them.</p>
+               <p>But 4 If ſhe had Children alive, how doe you know but that the leaſt of them were old enough to ſpeak for themſelves?</p>
+               <p n="5">5 And laſtly, if ſhe had any infant Children, how can you infer from the Text that ſhe baptized them? If you ſay, becauſe her houſe was baptized; I an<g ref="char:EOLhyphen"/>ſwer, That a man may as well ſay, as I ſaid before, that the infants of <hi>Stephanus</hi> did miniſter to the Saints, becauſe the houſhold of <hi>Stephanus</hi> did mini<g ref="char:EOLhyphen"/>ſter to the Saints. You doe urge ſeverall Texts to ſhew that oftentimes in Scripture whole houſholds doe include their infants, as <hi>Gen.</hi> 14.16. <hi>Judges</hi> 9.16.18. 1 <hi>Kings</hi> 17.12, 13, 15. 1 <hi>Pet.</hi> 3.21. I ſhall not examine theſe Texts, whether you have urged them rightly, or no, becauſe I agree with you, that often times in Scripture, we muſt from ſeverall reaſons and circumſtances conclude, that when it ſpeaks of houſholds, it includes infants: But if you cannot prove from any reaſon or circumſtance in the Texts under debate, that it ſhould here be ſo underſtood, then you have laboured all this while for that which ſatisfieth not; unleſſe you will ſay, that alwayes when the Scripture ſpeaks of houſe, or houſhold, it intends little infants, which you will not ſay. And again, you may perceive by what hath been ſaid, that in theſe houſes thoſe that were baptized have enough to diſtinguiſh them from being infants, to any that have not put out the eyes of their under<g ref="char:EOLhyphen"/>ſtanding.</p>
+               <p>You proceed, as though your conſcience did con<g ref="char:EOLhyphen"/>vince you, that whatever you have talked of plain Scripture precept, and plain Scripture practice for
+<pb n="61" facs="tcp:56842:34"/>infants baptiſm, that there is no ſuch thing in all the Scripture, becauſe you ſay</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Kellie.</speaker>
+               <p>
+                  <hi>THat it is not expreſſed in the Scripture that women were admitted to breaking of bread, and yet</hi> (you ſay) <hi>we never queſtion their right to that Ordinance,</hi> (You hereupon demand) <hi>why then ſhould we queſti<g ref="char:EOLhyphen"/>on Childrens right to baptiſm?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>I Anſwer, Firſt, that if we ſhould doe a thing that we had no plain rule for, will this juſtifie you to doe evill, becauſe we doe evill; and to walk in the dark without a plain rule, becauſe we doe ſo.</p>
+               <p>But ſecondly, we have a plain rule for womens receiving the Lords Supper, 1 <hi>Cor.</hi> 11.28. <hi>Let a man examine himſelfe;</hi> where the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is of the Common Gender, and <hi>Beza</hi> renders it <hi>quiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> Which is as much as if the Apoſtle had ſaid, Let EVERY ONE examin themſelves, and ſo let them eat. Where have you ſuch a plain Text as this for infants bap<g ref="char:EOLhyphen"/>tiſm?</p>
+               <p>Laſtly, you urge, <hi>Col.</hi> 2.11, 12. where you ſay,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>IF that place doth not give Children a right to baptiſm, then the Apoſtle doth not write that which could ſatis<g ref="char:EOLhyphen"/>fie either the</hi> Coloſſians, <hi>or the falſe Prophets that were for Circumciſion.</hi> Your Reaſons are, <hi>Becauſe the falſe Prophets might have ſaid, That the outward Circumciſion of Children, did point and ſignifie the inward Circumciſi<g ref="char:EOLhyphen"/>on of the heart: But if this be taken away, what have Children now to ſignifie the Circumſion of the heart?</hi>
+               </p>
+            </sp>
+            <pb n="62" facs="tcp:56842:35"/>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>SO then, by this you would give us to underſtand, that the falſe Prophets could no way be anſwe<g ref="char:EOLhyphen"/>red unleſſe the Apoſtle had granted baptiſm of in<g ref="char:EOLhyphen"/>fants, to ſignifie that which Circumciſion did before. To this I anſwer, That if Circumciſion had ſignified the Circumciſing of infants hearts, then the falſe Prophets might have pleaded thus, But I deny that it ſignified any ſuch thing to or of infants: And therefore you ſaid well when you ſaid, The FALSE Prophets might ſay ſo, but I am ſure no true Prophet ever ſaid ſo.</p>
+               <p>And again, If the queſtion had been about infants baptiſm, he could not have ſpoken that which had ſatisfied either the <hi>Coloſſians,</hi> or falſe Teachers, if he had not conformed his Anſwer thereto. But there is not the leaſt noiſe of ſuch a thing in the Text, as you or any body elſe that ſhall but view it, may perceive; for the Apoſtle ſayes, <hi>Verſ.</hi> 11. <hi>That they were circum<g ref="char:EOLhyphen"/>ciſed with the circumciſion made without hands, by put<g ref="char:EOLhyphen"/>ting off the body of the ſins of the fleſh,</hi> &amp;c. Doth not this plainly ſhew, that he doth ſtrengthen the <hi>Coloſ<g ref="char:EOLhyphen"/>ſians</hi> from returning to the beggerly Rudiments of the world, by the benefit which they received by putting off the ſins of the fleſh, which they could not obtain by cutting their fleſh in Circumciſion. And now he tells them not onely the Argument of their being converted from ſin, and made compleat in Chriſt, ſhould ſtrengthen them from falling back to the Rudiments of the Law; but alſo, <hi>Verſ.</hi> 12. their being buried with Chriſt in baptiſm, and their riſing with him in baptiſm, through the faith of the operation of God, ſhould ſo far ingage them in the
+<pb n="63" facs="tcp:56842:35"/>Chriſtian Religion, that all the Philoſophicall de<g ref="char:EOLhyphen"/>ceits of men ſhould never be able to turn them from it: And where is ſo much as one word to your purpoſe? I muſt needs ſay, That out of all the Texts you have preſt, I cannot ſee water enough to ſprin<g ref="char:EOLhyphen"/>kle upon the face of one Child.</p>
+               <p>And whereas you tell me,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Kellie.</hi>
+               </speaker>
+               <p>
+                  <hi>I Might have ſaved you this labour, and my ſelfe too, if I had minded the Books of Dr. Featly, Mr. Marſhall, Mr. Gerce, Mr. Church, Mr. Cobbet, Mr. Baxter, Mr. Cooke, Mr. Blake, Mr. Fuller, Mr. Sidenham, beſides many other excellent men who have written in Latine, as Hoſ<g ref="char:EOLhyphen"/>ſius, Calvin, Beza, Bullinger, and all the beſt lights in the Chriſtian world full and clear againſt me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Ive's.</hi>
+               </speaker>
+               <p>TO this I Anſwer, That you might have ſaved me a lobour, if you had found out of all your Ob<g ref="char:EOLhyphen"/>ſervations of theſe men, but one plain Command or example for infants baptiſm, and given it me at your houſe, or ſent it in your Paper, which makes me think, that either theſe men have ſaid as little to the purpoſe as you, or elſe that you have minded them but a little, becauſe you otherwiſe would have ſaid more to the purpoſe, then I doe perceive you have done.</p>
+               <p>But 2 I have not lived without ſome obſervati<g ref="char:EOLhyphen"/>ons of (if not all, yet) many of theſe mens works; for I have not as yet taken up any Opinion wherein I differ from you, or others, but I have ſeriouſly weighed it in the ballance of the Sanctuary: And I have not declined the way of theſe men you name, nor any other, but when (I have upon ſerious exa<g ref="char:EOLhyphen"/>mination
+<pb n="64" facs="tcp:56842:36"/>found) that they have declined the foot<g ref="char:EOLhyphen"/>ſteps of the Primitive Purity, either in Doctrine or Diſcipline.</p>
+               <p>And whereas you talk of learned men, and fathers, and beſt Lights in the Chriſtian world, that they are all againſt me; I tell you, that if God and his word be for me, I care not who is againſt me: And I tell you further, that I had rather have one Teſtimony from the word of God for my practice, then ten thou<g ref="char:EOLhyphen"/>ſand of theſe Authors without it.</p>
+               <p>I Shall therefore ſhew you
+<list>
+                     <item>1 Plain Scripture Proof for believers baptiſm.</item>
+                     <item>2 Plain Example for it.</item>
+                     <item>3 Plain Command and Example for the manner of the Adminiſtration of it.</item>
+                     <item>4 And laſtly, That the footſteps hereof (ſince you talk of learned and godly men) was not whol<g ref="char:EOLhyphen"/>ly defaced in the three firſt Centuries after the Apo<g ref="char:EOLhyphen"/>ſtles, nor then neither. Nay, a man may make a ſhift to know this was the practice, by thoſe relicks of it that remained in the Church of <hi>England,</hi> till the me<g ref="char:EOLhyphen"/>mory of man.</item>
+                  </list>
+               </p>
+               <p>That Chriſt our Lord Commands this, who we muſt hear in all things, or elſe we ſhall be deſtroy<g ref="char:EOLhyphen"/>ed, appears firſt from <hi>Mat.</hi> 28.19. <hi>Teach all Nations, baptizing them,</hi> &amp;c. Which moſt of your own Au<g ref="char:EOLhyphen"/>thors doe acknowledge<note n="*" place="margin">See Mr. Baxter in his plain Scripture proof for Infants bap<g ref="char:EOLunhyphen"/>tiſm. <hi>p.</hi> 15.</note> (as I have ſhewed) ſhould be read, <hi>Make Diſciples, baptizing</hi> THEM, and not the Nations, as you would ſomtimes have it: Though at your houſe you granted the Text ought to be ſo Tranſlated, as I have now rendred it; therefore you proceeded from hence to prove infants Diſciples,
+<pb n="65" facs="tcp:56842:36"/>which you could not have done, but by granting what I have ſaid.</p>
+               <p>The next Text is, <hi>Mark</hi> 16.16. <hi>He that believeth and is baptized, ſhall be ſaved,</hi> &amp;c. <hi>Acts</hi> 10 48. <hi>And he</hi> (<hi>Viz.</hi> the Apoſtle) <hi>commanded them to be baptized with water</hi> (who were converted by his Preaching) <hi>in the name of the Lord Jeſus.</hi> Mark 1.4. <hi>John did Preach the baptiſm of repentance,</hi> which could not be infants baptiſm, <hi>Acts</hi> 2.38. <hi>Peter ſaid, Repent and be baptized every one of you.</hi> Acts 22.16. <hi>Ariſe, and be baptized, and waſh away thy ſins.</hi>
+               </p>
+               <p>Secondly, We have plenty of Example of this in the Scripture, <hi>Rom.</hi> 6.4. <hi>We</hi> (<hi>Viz.</hi> believing <hi>Ro<g ref="char:EOLhyphen"/>mans</hi>) <hi>are buried with him in baptiſm.</hi> Mat. 3.6. <hi>They were all baptized of John in Jordan, confeſſing their ſins.</hi> Mark 1.9. <hi>Jeſus was baptized of John in Jordan.</hi> Mat. 3.15. <hi>Acts</hi> 2.41. <hi>Then they that gladly received his word, were baptized,</hi> &amp;c. <hi>Acts</hi> 8.12. <hi>When they did believe Philips preaching the things concerning the King<g ref="char:EOLhyphen"/>dome of God, they were baptized both men and women.</hi> Acts 8.38. when the <hi>Eunuch</hi> profeſt faith, <hi>Verſ.</hi> 37. 'tis ſaid, <hi>Verſ.</hi> 38. that <hi>Phillip baptized him.</hi> Acts 9.18. <hi>Saul,</hi> when he was converted, the Text ſaith, <hi>He aroſe and was baptized.</hi> The Jaylor, <hi>Acts</hi> 16.33. when he and his houſe believed, the Text ſayes, <hi>He and all his were baptized.</hi> Acts 18.8. <hi>And Criſpus the chief Buler of the Synagogue believed on the Lord with all his houſe. And many of the Corinthians hearing, believed, and were baptized.</hi> Acts 19.5. <hi>When they heard this, they were baptized in the name of the Lord Jeſus.</hi>
+               </p>
+               <p>Thirdly, Command and Example in plain words for the manner of it, which was by dipping the per<g ref="char:EOLhyphen"/>ſon all over in the water, and not by ſprinkling wa<g ref="char:EOLhyphen"/>ter
+<pb n="66" facs="tcp:56842:37"/>upon the face, as the manner of the Nation is; This appears by the Command, <hi>Make Diſciples</hi> (for ſo it muſt be read) <hi>of all Nations, dipping them into the name of the Father, Son, and Spirit;</hi> for that is the Engliſh ſignification of the word: And I deſire you to ſhew me where <hi>baptizo</hi> ſignifies <hi>aſperſio</hi> in all the Bible. And the like Command you have, <hi>Mark</hi> 16.16. But that you may know that dipping and not ſprinkling, was the Command of Chriſt, and the Practice of the Primitive times, however it is now laughed at, appears by the Practice of Chriſt himſelf, <hi>Mat.</hi> 16.3. <hi>Jeſus when he was baptized went</hi> UP OUT <hi>of the water,</hi> &amp;c. <hi>Mark</hi> 1.5. <hi>They were all bap<g ref="char:EOLhyphen"/>tized of him in the River Jordan,</hi> &amp;c. <hi>John</hi> 2.23. <hi>John was baptized in Aenon near to Salim, becauſe there was</hi> Much <hi>water there, and</hi> They Came <hi>and were baptized. Acts</hi> 8.38, 39. 'tis ſaid, <hi>Verſ.</hi> 38. that <hi>They</hi> (viz. <hi>Phi<g ref="char:EOLhyphen"/>lip</hi> and the <hi>Eunuch</hi>) <hi>went both downe into the water:</hi> And when <hi>Philip</hi> had baptized him, it is ſaid, <hi>Verſ.</hi> 39. <hi>That they came out of the water.</hi> I ſhall appeale to all unbiaſſed men, whether baptizing men and wo<g ref="char:EOLhyphen"/>men in Rivers, upon their profeſſing faith in Chriſt, doth not better accord with theſe Scriptures, then ſprinkling water upon the face of infants.</p>
+               <p>Beſides, Fourthly, This was the Practice of the Church long after the Apoſtles, as appears firſt by what</p>
+               <p>
+                  <hi>Socrates Scholaſticus</hi> in his Eccleſiaſticall Hiſtory reports of <hi>Constantine</hi> the Great, That though he was the Son of <hi>Hellena</hi> a zealous Profeſſor of Chriſt, <hi>lib.</hi> 1. <hi>cap.</hi> 13. yet he was not baptized till he was 65 years old, which was after he had left <hi>Conſtanti<g ref="char:EOLhyphen"/>nople,</hi> and <hi>Helenopolis,</hi> and came to <hi>Nicomedia,</hi> where
+<pb n="67" facs="tcp:56842:37"/>dwelling in a Mannor without the Town-walls, he was baptized into the faith of Chriſt, in which bap<g ref="char:EOLhyphen"/>tiſm he greatly rejoyced, <hi>lib.</hi> 1. <hi>cap.</hi> 26.</p>
+               <p>Again, the ſame Author ſaith, That in <hi>Alexandria</hi> the Holy Sciptures were read and interpreted by the UNBAPTIZED, which he cals <hi>Cathecumeniſts,</hi> aſwell as by them that were baptized; which (ſaith he) was contrary to the Cuſtome of other Countries and Churches, who did not ſuffer any to doe ſo till they were baptized, <hi>Socrates, lib.</hi> 5. <hi>cap.</hi> 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Which plainly ſhewes, that infants baptiſm was not a tra<g ref="char:EOLhyphen"/>dition of the Apoſtles; for if it had, this Church of <hi>Alexandria,</hi> that had for the ſpace of ſome hundred years been converted to the faith of Chriſt, would by this time (if all believers had baptized their infants, as the Church of <hi>England,</hi> and others doe now adayes, one Generation after another) have been without any that were able to read and interpret the Scriptures before baptiſm, as we ſee the Nation of <hi>Engl:</hi> now is, a few (<hi>Anabaptists</hi> Children ſo called) excepted, otherwiſe where are your <hi>Oathecumeniſts,</hi> that are able to read &amp; underſtand the holy Script: before you baptize them? And that they in thoſe times did follow the way of Chriſt in baptizing, and not your Baſon way, appears; for the ſame <hi>Socrates, lib.</hi> 7. <hi>cap.</hi> 4. ſpeaks of a <hi>Jew</hi> which was baptized by <hi>Soticus,</hi> Biſhop of <hi>Conſtantinople,</hi> who, ſaith he, as ſoon as he was [TAKEN OUT OF THE WATER] his <hi>Palſie</hi> left him. Can it be ſaid ſo of any that you baptize, that they are <hi>taken out of the water?</hi>
+               </p>
+               <p>The ſame Author further ſaith, <hi>lib.</hi> 7. <hi>cap.</hi> 17. of a <hi>Jew</hi> that was to be baptized upon his profeſſion of faith, by <hi>Paulus</hi> the <hi>Novatian</hi> Biſhop, that all things
+<pb n="68" facs="tcp:56842:38"/>were provided for his baptiſm, among which he ſaith <hi>The Biſhop did provide him a linnen Garment,</hi> which was to no purpoſe if he had not been to dip the perſon in water: And <hi>Bellarmiue</hi> himſelf acknowledges, that <hi>in old time they had women in the Church, whom they cal<g ref="char:EOLhyphen"/>led to the Office of Deaconneſſes, to attend upon the women that were baptized, with baptizing cloaths.</hi>
+               </p>
+               <p>And <hi>Jerome</hi> Tranſlating the Lamentation of <hi>Ori<g ref="char:EOLhyphen"/>gen,</hi> ſaith, <hi>That Origen lamented and bewailed the Vow that</hi> [HE MADE WHEN HE WAS BAPTI<g ref="char:EOLhyphen"/>ZED,] <hi>in that he had now by ſin walked contrary to it.</hi> However <hi>Origen</hi> is himſelf thought to favour this practice afterwards, yet thoſe things are but the ſup<g ref="char:EOLhyphen"/>poſed works of <hi>Origen,</hi> and it's hard to ſay whether it was his or no.</p>
+               <p>Again, <hi>Euſebius</hi> who writ the Eccleſiaſticall Hiſto<g ref="char:EOLhyphen"/>ry of the firſt 300 years after Chriſt; though he tells us of all the moſt obſervable paſſages of thoſe times, yet he doth not ſo much as mention the baptizing of one infant, but doth often times mention things in favour to the baptizing of men, upon profeſſion of faith; as appears <hi>lib.</hi> 7. <hi>cap.</hi> 8. of his Eccleſiaſti<g ref="char:EOLhyphen"/>call ſtory, where he relates of a man that heard the Queſtions that was by the Miniſter aſked of perſons to be baptized, and [THEIR ANSWERS TO THEM,] fell down and wept at the Miniſters feet, becauſe the baptiſm that he had received of the He<g ref="char:EOLhyphen"/>reticks, was not like the baptiſm [THAT WAS IN USE THEN,] which plainly ſheweth, That at this time the Churches did not receive men to baptiſm, but upon profeſſion of faith; and alſo, that it was no Apoſtolicall Cuſtome to baptize infants. Further, <hi>Beza</hi> himſelf upon <hi>Acts</hi> 17.3. ſaith, <hi>That
+<pb n="69" facs="tcp:56842:38"/>they profeſſed in baptiſm the doctrine propounded by John.</hi> And beſides this, how often have Mr. <hi>Tombs,</hi> and Mr. <hi>Den,</hi> and others, produced ſufficient proof that this practice of baptizing infants, was not ſo much the Cuſtome of the Primitive times, as you imagine.</p>
+               <p>That memorable inſtance of <hi>Gregory Nazianzen,</hi> whoſe father was a Biſhop, and his mother a vertu<g ref="char:EOLhyphen"/>ous woman, yet himſelfe was not baptized till he came from <hi>Athens,</hi> where (as <hi>Socrates</hi> ſaith, <hi>lib.</hi> 4. <hi>cap.</hi> 21.) he had <hi>ſpent much of his time in the ſtudy of Rhe<g ref="char:EOLhyphen"/>torick.</hi>
+               </p>
+               <p>Again, That other inſtance of Mr. <hi>Tombes</hi> out of <hi>Hugo Grotius,</hi> in his Annotations upon <hi>Mat.</hi> 19.14. <hi>That even Chryſoſtome, though born of Chriſtian parents, was not baptized till he was</hi> 21 <hi>years of age.</hi> The ſame <hi>Grotius</hi> adds, <hi>That the Canon of the Synod of Neoſeſarea held in the year</hi> 315, <hi>determined that a woman with Child might be baptized, becauſe baptiſm did not reach the fruit of her womb, becauſe in the confeſſion made in baptiſm,</hi> EVERY ONES FREE CHOICE IS SHEWED. He adds further, <hi>That many of the Greeks to his time did defer the baptizing little ones, till they could themſelves make a confeſſion of their faith.</hi>
+               </p>
+               <p>Again, Was not the Image of this Cuſtome to be ſeen in the practice of the Church of <hi>England,</hi> when they aſked, What was required of perſons TO BE BAPTIZED, and the anſwer was, <hi>Repentance</hi> where<g ref="char:EOLhyphen"/>by they forſake ſin, and <hi>Faith</hi> whereby they believe the Promiſes of God: Which afterwards by chang<g ref="char:EOLhyphen"/>ing the Command of God into a Tradition of their owne, they did uſe to aſk the God-fathers, and God-mothers, a conceit that was never heard of till the Churches had apoſtatized from their Primitive Pu<g ref="char:EOLhyphen"/>rity.</p>
+               <pb n="70" facs="tcp:56842:39"/>
+               <p>And as for the manner of baptizing, by dipping the Perſon in the water, however it is now laught at, you ſee it was not onely that which as I have ſaid, Chriſt and his Apoſtles Commanded and Practiced but it was uſed in the Church for a long time after; &amp; the Church of <hi>England</hi> did look upon it as a more commendable way, in as much as they in their Ser<g ref="char:EOLhyphen"/>vice-Book did place <hi>dipping</hi> before <hi>ſprinkling,</hi> and therefore they ſaid, the perſons DIPPED, or <hi>ſprink<g ref="char:EOLhyphen"/>led,</hi> &amp;c. Now may I not better ſay, That if you had looked over the Command of Chriſt, and the Pra<g ref="char:EOLhyphen"/>ctice of the Apoſtle, and traced the foot-ſteps of the Primitive Practice in this Point, for 300 years after, you might have ſaved me a labour, and your ſelf too, then you could ſay, I might have ſaved you a labour if I had looked over the writings of a few men that you have named, who have not in all their Books cited either a Command or Example for infants ſprinkling, but onely ſome far-fetched <hi>non-ſequitors,</hi> which moſt of your Paper is filled withall.</p>
+               <p>I ſhall now conclude, leaving what I have ſaid in Anſwer to your Arguments for your Practice, and the plain Scripture I have urged for my own Pra<g ref="char:EOLhyphen"/>ctice, to your judgement, and the judgement of all to whom this ſhall come, and deſire that like the <hi>Be<g ref="char:EOLhyphen"/>reans,</hi> you and all others that ſhall peruſe this, would ſearch whether what I have ſaid in the premiſſes, be of God, or no; and if in your Conſcience you or any elſe doe ſo fied it to be, take heed then what you do in oppoſing of it, leaſt you be found ſighters againſt God. And what hath fallen from my pen that is not according to Gods word, I ſhall deſire that you
+<pb n="71" facs="tcp:56842:39"/>or any elſe would ſhew it me, either in word or wri<g ref="char:EOLhyphen"/>ting and it ſhall thankfully be received as a favour, by</p>
+            </sp>
+            <closer>
+               <salute>SIR, </salute> 
+               <signed>
+                  <hi>Your Friend to Serve you.</hi> JER: IVES.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
